@@ -1,0 +1,9 @@
+Essa página vai servir para armazenar as notas de atualizações desse site, mostrando o que já foi adicionado e também registrando quando foram feitas.
+
+Versão Beta 0.1 - Publicada em 03/03.
+Contém:
+• Introdução
+• Tutorial Básico.
+• Classes: Clérigo, Furioso e Intrépido.
+• Raças: Humanos, Anões, Elfos, Dampiros, Draconatos, Goblins, Gnomos, Nefilins / Suraggels, Pequenins / Hynnes (em desenvolvimento).
+• Poderes Gerais.

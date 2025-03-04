@@ -1,0 +1,346 @@
+## CLÉRIGO
+### CARACTERÍSTICAS DE CLASSE
+| Tabela | O Clérigo                                                   |
+| ------ | ----------------------------------------------------------- |
+| Nível  | Habilidades de Classe                                       |
+| 1º     | Caminho da Fé, Domínio Divino, Magias (3, 1º círculo)       |
+| 2º     | Magias (4, 1º círculo), Poder de Clérigo                    |
+| 3º     | Magias (5, 1º círculo), Poder de Clérigo                    |
+| 4º     | Magias (6, 1º círculo) Poder de Clérigo                     |
+| 5º     | Magias (7, 2º círculo), Poder de Clérigo                    |
+| 6º     | Magias (8, 2º círculo), Poder de Clérigo                    |
+| 7º     | Magias (9, 2º círculo), Poder de Clérigo                    |
+| 8º     | Magias (10, 2º círculo), Poder de Clérigo                   |
+| 9º     | Magias (11, 3º círculo), Poder de Clérigo                   |
+| 10º    | Magias (12, 3º círculo), Poder de Clérigo                   |
+| 11º    | Magias (14, 3º círculo), Poder de Clérigo                   |
+| 12º    | Magias (15, 3º círculo), Poder de Clérigo                   |
+| 13º    | Magias (16, 4º círculo), Poder de Clérigo                   |
+| 14º    | Magias (17, 4º círculo), Poder de Clérigo                   |
+| 15º    | Magias (18, 4º círculo), Poder de Clérigo                   |
+| 16º    | Magias (19, 4º círculo), Poder de Clérigo                   |
+| 17º    | Magias (20, 5º círculo), Poder de Clérigo                   |
+| 18º    | Magias (21, 5º círculo), Poder de Clérigo                   |
+| 19º    | Magias (22, 5º círculo), Poder de Clérigo                   |
+| 20º    | Magias (23, 5º círculo), Mão da divindade, Poder de Clérigo |
+**Pontos de Vida.** Um clérigo começa com 12 pontos de vida + Constituição e ganha 3 PV + Constituição por nível.
+**Pontos de Mana.** 5 PM por nível.
+**Perícias.** Religião (Sab) e Vontade (Sab), mais 2 a sua escolha entre Adestramento (Car), Atuação (Car), Conhecimento (Int), Cura (Sab), Diplomacia (Car), Fortitude (Con), Guerra (Int), Iniciativa (Des), Intuição (Sab), Investigação (Int), Luta (For), Misticismo (Int), Nobreza (Int), Ofício (Int) e Percepção (Sab).
+**Proficiências.** Escudos.
+### HABILIDADES DE CLASSE
+**CAMINHO DA FÉ.** Clérigos podem seguir diferentes caminhos para espalhar a palavra da sua fé. Escolha uma das opções a seguir. Uma vez feita, essa escolha não pode ser mudada.
+• *Campeão*. Você treinou o suficiente para conseguir se defender. Você recebe proficiência com armaduras pesadas e +1 ponto de vida por nível.
+• *Sacerdote.* Você se dedicou nos estudos para obter a erudição. Você recebe duas pericias de classe a sua escolha e +1 ponto de mana por nível.
+**DOMÍNIO DIVINO.** Escolha um domínio divino como origem dos seus poderes (veja a lista a seguir). Você recebe o benefício básico do seu domínio. Um domínio é moldado pela sua escolha de fé e pelos dons que ela lhe concede.
+**MAGIAS.** Você pode lançar magias divinas de 1º círculo. A cada quatro níveis, pode lançar magias de um círculo maior (2º círculo no 5º nível, 3º círculo no 9º nível e assim por diante). Você começa com três magias de 1º círculo. A cada nível, aprende uma magia de qualquer círculo que possa lançar. Seu atributo-chave para lançar magias é Sabedoria e você soma sua Sabedoria no seu total de PM.
+**PODER DE CLÉRIGO.** No 2º nível, e a cada nível seguinte, você recebe um poder de clérigo a sua escolha. Veja a lista a seguir.
+**MÃO DA DIVINDADE.** No 20º nível, você pode gastar uma ação completa e 15 PM para canalizar energia divina. Ao fazer isso, você lança três magias divinas quaisquer (de qualquer círculo, incluindo magias que você não conhece), como uma ação livre e sem gastar PM (mas ainda precisa pagar outros custos). Você pode aplicar aprimoramentos, mas precisa pagar por eles. Após usar esta habilidade, você fica atordoado por 1d4 rodadas (mesmo se for imune a esta condição). Corpos mortais não foram feitos para lidar com tanto poder.
+### PODERES DE CLÉRIGO
+• *Ampliar Sacrário.* Você pode criar sacrários em alcance médio e eles passam a ocupar uma esfera de até 6m de raio. *Pré-requisitos:* 10º nível de clérigo.
+• *Armamento Abençoado.* Você recebe proficiência com armas marciais e +2 nas rolagens de dano com armas. *Pré-requisitos:* Campeão.
+• *Aumento de Atributo.* Você recebe +1 em um atributo. Você pode escolher este poder várias vezes, mas apenas uma vez por patamar para um mesmo atributo.
+• *Autoridade Eclesiástica.* Você possui uma posição formal em uma igreja reconhecida pelos outros membros de sua fé. Os efeitos deste poder variam de acordo com a igreja e o deus e ficam a cargo do mestre. Como regra geral, você recebe +5 em testes de Diplomacia ou Intimidação ao lidar com devotos de sua divindade e paga metade do preço de itens alquímicos, poções e serviços em templos de sua divindade. Se estiver usando regra de domínios em vez de deuses, recebe o poder *Domínio Aprimorado* assim que atingir o 6º nível de clérigo. *Pré-requisitos:* 5º nível de clérigo.
+• *Bênção Fortalecedora.* Quando lança Bênção, você pode gastar +2 PM para você e seus aliados abençoados receberem uma quantidade de PV temporários igual a 5 vezes o bônus em testes de ataque fornecido pela magia. Estes PV temporários duram até o fim da cena. *Pré-requisitos:* Bênção. (efeito mágico)
+• *Canalizar Amplo.* Quando você usa a habilidade Canalizar Energia, pode gastar +2 PM para aumentar o alcance dela para médio. *Pré-requisitos:* Canalizar Energia.
+• *Canalizar Energia.* Você pode gastar uma ação padrão e uma quantidade de PM limitada pelo seu nível para liberar uma onda de energia divina que afeta criaturas a sua escolha em alcance curto. Para cada PM que gastar, cura 1d6 PV ou causa 1d6 de um tipo de dano definido pelo seu domínio em criaturas a sua escolha (Vontade CD Sab reduz à metade). (efeito mágico)
+• *Canto Monástico.* Você pode gastar uma ação padrão e 3 PM para entoar um cântico religioso. Faça um teste de Atuação para ajudar; se passar, você e todos os seus aliados em alcance curto recebem um bônus igual ao bônus de ajuda em um teste de perícia feito até o fim da cena ou na CD para resistir a uma de suas habilidades usada até o fim da cena. *Pré-requisito:* treinado em Atuação.
+• *Comandar Mortos-Vivos.* Você pode gastar uma ação padrão e 3 PM para comandar todos os mortos-vivos em alcance curto. Mortos-vivos comandados não inteligentes (Int –4 ou menor) ficam sob suas ordens por um dia (até um limite de ND somados igual a seu nível +3; dar uma ordem a todos eles é uma ação de movimento) e mortos-vivos comandados inteligentes ficam fascinados por uma rodada.(efeito mágico). Mortos-vivos têm direito a um teste de Vontade (CD Sab) para evitar estes efeitos. *Pré-requisitos:* Canalizar Energia, Domínio da Morte. (efeito mágico)
+• *Comunhão Vital.* Quando lança uma magia que cure uma criatura, você pode pagar +2 PM para que outra criatura em alcance curto (incluindo você mesmo) recupere uma quantidade de pontos de vida igual à metade dos PV da cura original. (efeito mágico)
+• *Conhecimento Mágico.* Você aprende duas magias divinas de seu santo de qualquer círculo que possa lançar. Você pode escolher este poder quantas vezes quiser.
+• *Copista.* Você pode criar pergaminhos, como se tivesse o poder Escrever Pergaminho. Se tiver ambos, pode fabricar o dobro de pergaminhos ao mesmo tempo (pagando o custo de matéria-prima de ambos). *Pré-requisitos:* treinado em Ofício (escriba). *Pré-requisitos:* Sacerdote. (efeito mágico)
+• *Domínio Aprimorado.* Você recebe a o benefício aprimorado do seu domínio divino. *Pré-requisitos:* 6º nível de clérigo.
+• *Domínio Completo.* Você recebe o benefício completo do seu domínio divino. *Pré-requisitos:* 11º nível de clérigo.
+• *Escudo Divino.* Quando lança uma magia divina, você recebe um bônus na Defesa igual ao círculo da magia lançada até o início do seu próximo turno. *Pré-requisitos:* Campeão. (efeito mágico)
+• *Estudante Diligente.* No começo do dia você pode escolher uma perícia em que não seja treinado. Se fizer isso, até o fim do dia você sofre uma penalidade de 2 PM mas pode fazer testes da perícia escolhida como se fosse treinado nela. *Pré-requisitos:* Sacerdote.
+• *Expulsar o Mal.* Quando usa Canalizar Energia, você pode pagar +2 PM para expulsar todos os mortos-vivos e demônios em alcance curto. Além de sofrer o dano normal do poder, mortos-vivos que falhem no teste de Vontade contra seu Canalizar Energia ficam apavorados por 1d6 rodadas. *Pré-requisitos:* Canalizar Energia. (efeito mágico)
+• *Fé e Razão.* Quando usa uma habilidade de clérigo, você pode gastar 2 PM para somar +2 na CD para resistir à ela. *Pré-requisitos:* Sacerdote.
+• *Golpe Sagrado.* Se estiver sob efeito de Santificar Arma, você pode gastar 1 PM para causar um dado extra de dano do mesmo tipo. *Pré-requisitos:* Santificar Arma, 6º nível de clérigo.
+• *Liturgia Mágica.* Você pode gastar uma ação de movimento para executar uma breve liturgia de sua fé. Se fizer isso, a CD para resistir à sua próxima habilidade de clérigo (desde que usada até o final de seu próximo turno) aumenta em +2.
+• *Magia Iluminada.* Suas magias de cura curam +1 PV por dado de cura. *Pré-requisitos:* 3º nível de clérigo.
+• *Mestre Celebrante.* O número de pessoas que você afeta com uma missa aumenta em dez vezes e os benefícios que elas recebem dobram. *Pré-requisitos:* qualquer poder de Missa, 12º nível de clérigo.
+• *Memorizar Liturgia.* Uma vez por dia, você pode gastar uma hora de estudo e um número de pergaminhos que contenham magias divinas até sua Sabedoria. Até o fim do dia, você pode lançar as magias contidas nesses pergaminhos como se as conhecesse ou, se já conhecia a magia, seu custo é reduzido em –1 PM (cumulativo com outras reduções de custo). *Pré-requisitos:* Copista, 8º nível de clérigo.
+• *Missa: Bênção da Vida.* Os participantes recebem pontos de vida temporários em um valor igual ao seu nível + sua Sabedoria.
+• *Missa: Chamado às Armas.* Os participantes recebem +1 em testes de ataque e rolagens de dano.
+• *Missa: Esforço Concentrado.* Uma vez por cena, cada participante pode executar uma única ação padrão adicional em um de seus turnos. *Pré-requisitos:* Superar as Limitações.
+• *Missa: Elevação do Espírito.* Os participantes recebem pontos de mana temporários em um valor igual a sua Sabedoria.
+• *Missa: Escudo Divino.* Os participantes recebem +1 na Defesa e testes de resistência.
+• *Missa: Imposição da Vontade.* Os participantes recebem +1 na CD para resistir às suas habilidades.
+• *Missa: Mente Abençoada.* Quando faz um teste de Vontade, o participante pode rolar dois dados e usar o melhor resultado
+• *Missa: Superar as Limitações.* Cada participante recebe +1d6 num único teste a sua escolha e pode usá-lo mesmo após rolar o dado.
+• *Prece de Combate.* Quando lança uma magia divina com tempo de conjuração de uma ação padrão em si mesmo, você pode gastar +2 PM para lançá-la como uma ação de movimento.
+• *Proteção Sagrada.* Quando usa Santificar Arma, você pode gastar uma quantidade de PM adicional, limitada pelo círculo máximo de magias a que tem acesso, para energizar seu símbolo sagrado até o fim da cena. Enquanto você estiver empunhando o símbolo, ele projeta uma aura com 9m de raio. Criaturas a sua escolha dentro dessa aura recebem redução de dano igual ao total de PM gastos. *Pré-requisitos:* Santificar Arma, 5º nível de clérigo.
+• *Psicografia.* Seus textos recebem inspiração divina. Você pode fabricar pergaminhos de qualquer magia divina (mesmo uma que não conheça) de quaisquer círculos a que tenha acesso. A CD para fabricar um desses pergaminhos aumenta em +5. *Pré-requisitos:* Copista, 5º nível de clérigo.
+• *Sacrário da Misericórdia.* No início de cada um dos seus turnos, enquanto tiver um sacrário ativo, você pode gastar 1 PM para recuperar uma quantidade de PV igual a 5 + Sabedoria de cada criatura a sua escolha dentro do sacrário. *Pré-requisitos:* 6º nível de clérigo. (efeito mágico)
+• *Sacrário da Resiliência.* Criaturas a sua escolha dentro do sacrário recebem +2 em testes de resistência e na Defesa. Quando ativa esse sacrário você pode gastar mais PM para fortalecer seu efeito; para cada 2 PM adicionais gastos, o bônus concedido pelo sacrário aumenta em +1 (bônus máximo limitado pelo círculo máximo de magias que você pode lançar). *Pré-requisitos:* 5º nível de clérigo. (efeito mágico)
+• *Sacrário da Solenidade.* Criaturas a sua escolha dentro do sacrário ficam sob condição terrível para lançar magias e sofrem –2 em testes de perícia. Quando ativa esse sacrário você pode gastar mais PM para fortalecer seu efeito; para cada 2 PM adicionais gastos, a penalidade causada pelo sacrário aumenta em +1 (penalidade máxima limitada pelo círculo máximo de magias que você pode lançar). (efeito mágico)
+• *Sacrário das Sombras.* A área do sacrário é coberta por sombras; criaturas a sua escolha dentro dela recebem camuflagem leve e mortos-vivos a sua escolha dentro dela recebem +2 na Defesa e em testes de perícia. (efeito mágico)
+• *Sacrário da Verdade.* Sempre que uma criatura a sua escolha dentro da área passa em um teste de Acrobacia, Enganação, Furtividade ou Ladinagem, ou acerta um ataque contra alguém flanqueado, ela sofre 2d6 pontos de dano psíquico por círculo de magia a que você tem acesso. (efeito mágico)
+• *Santificar Arma.* Você pode gastar uma ação de movimento e 3 PM para infundir com poder divino uma arma que esteja empunhando. Até o final da cena, a arma é considerada mágica e emite luz em um raio de 9m. Além disso, o dano da arma aumenta em um passo e você pode usar sua Sabedoria em testes de ataque e rolagens de dano com ela, em vez do atributo padrão. *Pré-requisitos:* Campeão. (efeito mágico)
+• *Símbolo Sagrado Energizado.* Você pode gastar uma ação de movimento e 1 PM para fazer uma prece e energizar seu símbolo sagrado até o fim da cena. Um símbolo sagrado energizado emite uma luz dourada em um raio de 9m e diminui o custo em PM de suas magias divinas em 1. (efeito mágico)
+#### Missas
+Alguns poderes do clérigo são Missas. Esses poderes compartilham as seguintes regras.
+• Rezar uma Missa exige uma hora e o gasto de materiais especiais (como velas, incensos, água benta...) no valor de T$ 25. Um mesmo celebrante pode aplicar mais de um poder de Missa na mesma celebração. Cada poder adicional aumenta o custo da Missa em T$ 25.
+• Uma Missa afeta um número máximo de pessoas igual a 1 + sua Sabedoria. Todas as pessoas precisam estar presentes durante toda a Missa.
+• Os efeitos de uma Missa duram um dia. Uma mesma criatura só pode receber os benefícios da mesma Missa uma vez por dia.
+#### Sacrários
+Alguns poderes de clérigo são Sacrários – uma área consagrada pelo poder divino. Esses poderes compartilham as seguintes regras.
+• Ativar um sacrário gasta uma ação padrão e 3 PM.
+• Um sacrário ocupa uma esfera de 3m de raio em alcance curto e dura até o fim da cena.
+• Você pode ter um número de sacrários ativos simultâneos igual à sua Sabedoria.
+• Um sacrário não pode ser ativado em uma área afetada por outro sacrário.
+### DOMÍNIOS DIVINOS
+Cada clérigo é devoto de alguma doutrina ou entidade específica, que são representadas por diferentes domínios que influenciam nas capacidades do clérigo. Ao escolher um domínio, você recebe o benefício básico dele e pode desenvolver os outros através de poderes de clérigo.
+#### ARCANO
+O Domínio Arcano conhece os os segredos e o potencial da magia intimamente. Seu poder Canalizar Energia causa dano de essência.
+• *Básico.* Você pode usar Sabedoria como atributo-chave de Misticismo (em vez de Inteligência) e para cada círculo de magia que você aprender, você aprende uma magia arcana como se fosse uma magia divina.
+• *Avançado.* Você recebe um poder de arcanista a sua escolha. Você deve cumprir todos os pré-requisitos do poder escolhido e, para esse efeito, considere que seu nível de arcanista é igual ao seu nível de clérigo -4.
+• *Completo.* Você pode aprender uma magia arcana adicional para cada círculo de magia que possa lançar (como no benefício básico). Você pode trocar uma dessas magias por outra magia arcana do mesmo círculo sempre que finalizar um descanso.
+#### CONHECIMENTO
+O Domínio do Conhecimento valoriza o aprendizado e a compreensão acima de tudo. Seu poder Canalizar Energia causa dano psíquico.
+• *Básico.* Você se torna treinado em duas perícias baseadas em Inteligência ou Sabedoria a sua escolha. Quando faz um teste de uma dessas perícias ou de Religião, você pode gastar 1 PM para dobrar seu bônus de treinamento.
+• *Avançado.* Você está sempre sob efeito de Compreensão, a CD para resistir essa magia aumenta em +2 e suas magias de Advinhação custam –1 PM (cumulativo com outras reduções de custo).
+• *Completo.* Você está sempre sob efeito de Visão da Verdade e a execução de suas magias de Advinhação diminui em uma categoria (ação completa para padrão, padrão para movimento, movimento para livre).
+#### CAOS
+O Domínio do Caos é completamente imprevisível. Seu poder Canalizar Energia sempre causa um tipo de dano definido aleatóriamente com um 1d12 (ordene conforme a página 230 do livro e se rolar um 12 causa perda de vida em vez de dano).
+• *Básico.* Você pode gastar uma ação de movimento e 2 PM para você ou um aliado a sua escolha receber +2 em um atributo aleatório (1d6). Você pode usar este poder várias vezes, mas bônus no mesmo atributo para um mesmo personagem não são cumulativos.
+• *Avançado.* Quando você ou um aliado faz um teste, você pode pagar 1 PM para rolar o dado novamente, permanecendo com o segundo resultado. Se ainda assim falharem no teste, você perde 1d4 PM.
+• *Completo.* Quando faz um teste de perícia, um resultado de 18 ou mais no dado sempre é um sucesso, e um resultado de 2 ou menos é sempre uma falha, não importando o valor a ser alcançado.
+#### DESTRUIÇÃO
+O Domínio da Destruição representa a ira divina encarnada. Seu poder Canalizar Energia causa um dano elemental a sua escolha.
+• *Básico.* Quando faz um ataque ou usa uma habilidade mágica de clérigo que cause dano, você pode pagar 1 PM para somar sua Sabedoria (mínimo +1) à rolagem de dano.
+• *Avançado.* A CD para resistir suas habilidades mágicas de clérigo que causam dano aumenta em +2 e elas custam –1 PM (cumulativo com outras reduções de custo).
+• *Completo.* Quando usa uma habilidade mágica de clérigo que causa dano, pode gastar +3 PM para maximizar os efeitos numéricos variáveis dela. Por exemplo, uma magia Infligir Ferimentos aprimorada para causar 5d8+5 de dano irá causar automaticamente 45 de dano, sem a necessidade de rolar dados. Uma habilidade sem efeitos variáveis não pode ser afetada por este poder. Esse efeito segue as regras de aprimoramento.
+#### ESCURIDÃO
+O Domínio da Escuridão pode tanto proteger contra os horrores da noite quanto abraça-los. Seu poder Canalizar Energia causa dano de trevas.
+• *Básico.* Você enxerga perfeitamente no escuro, incluindo em magias de escuridão e aprende e pode lançar Escuridão. Caso aprenda novamente essa magia, seu custo diminui em –1 PM (cumulativo com outras reduções de custo).
+• *Avançado.* Quando você usa um efeito que gera escuridão o alcance dela dobra. Se estiver sob efeito de escuridão, seus efeitos mágicos de dano de trevas ignoram 10 pontos de redução de dano.
+• *Completo.* Se você estiver sob efeito de escuridão, o custo de suas habilidades de clérigo é reduzido em –1 PM (cumulativo com outras reduções de custo) e a CD para resistir a suas habilidades aumenta em +2.
+#### GUERRA
+O Domínio da Guerra tem muitas faces e pode tanto transformar pessoas comuns em heróis quanto criar tiranos cruéis. Seu poder Canalizar Energia causa um tipo de dano físico a sua escolha.
+• *Básico.* Você pode usar Sabedoria como atributo-chave de Guerra (em vez de Inteligência). Além disso, em combate, pode gastar 2 PM para substituir qualquer teste de ataque ou resistência por um teste de Guerra. Quando faz um teste dessa perícia, você pode gastar 2 PM para dobrar seu bônus de treinamento.
+• *Avançado.* Você pode gastar uma quantidade de PM a sua escolha (limitada pela sua Sabedoria). Para cada PM que gastar, recebe +1 em rolagens de dano e redução de dano até o fim da cena.
+• *Completo.* Quando você ou um aliado faz ou erra um ataque, você pode gastar 3 PM para você ou o aliado rolar um dado adicional e usar o melhor resultado. Se o ataque acertar, o alvo perde 1d12 PV.
+#### ORDEM
+O Domínio da Ordem representa disciplina e proteção, bem como devoção às leis que governam uma sociedade, instituição ou filosofia. Seu poder Canalizar Energia causa dano psíquico, que você pode escolher se é ou não letal.
+• *Básico.* Para cada círculo de magia que você aprender, você pode aprender uma magia arcana de Abjuração e você se torna treinado em uma perícia a sua escolha entre Diplomacia, Intimidação, Intuição e Percepção. Quando faz um teste dessa perícia, você pode gastar 1 PM para dobrar seu bônus de treinamento.
+• *Avançado.* Uma vez por rodada, quando um oponente em alcance curto passa em um teste, você pode gastar 2 PM para fazer este oponente repetir o teste, escolhendo o pior entre os dois resultados.
+• *Completo.* A CD para resistir a suas magias de Abjuração aumenta em +2 e suas magias dessa escola custam -1 PM (cumulativo com outras reduções de custo).
+#### LUZ
+O Domínio da Luz enfatiza o poder divino de trazer a iluminação e a revelação. Seu poder Canalizar Energia causa dano de fogo ou luz.
+• *Básico.* Você aprende e pode lançar Luz, e pode usar os aprimoramentos exclusivos para conjuradores arcanos. Além disso, criaturas dentro da área da magia perdem toda camuflagem por escuridão, incluindo mágica. Caso aprenda novamente essa magia, seu custo diminui em –1 PM (cumulativo com outras reduções de custo).
+• *Avançado.* Quando você usa um efeito que gera luz, o alcance da iluminação dobra. Se estiver sob efeito de luz, seus efeitos mágicos de dano de fogo ou luz causam +1 de dano por dado.
+• *Completo.* Se você estiver sob efeito de luz, o custo de suas habilidades de clérigo é reduzido em –1 PM (cumulativo com outras reduções de custo) e a CD para resistir a suas habilidades aumenta em +2.
+#### MORTE
+O Domínio da Morte está relacionado com as forças que causam a morte, bem como com a energia negativa que dá origem a criaturas mortas-vivas. Seu poder Canalizar Energia causa dano de trevas.
+• *Básico.* Você pode aprender magias arcanas de Necromancia como se fossem magias divinas e pode gastar uma ação completa e 3 PM para reanimar o cadáver de uma criatura Pequena ou Média adjacente por um dia. O cadáver funciona como um parceiro iniciante de um tipo a sua escolha entre combatente, fortão ou guardião. Além disso, quando sofre dano, você pode sacrificar esse parceiro; se fizer isso, você sofre apenas metade do dano, mas o cadáver é destruído.
+• *Avançado.* Você aprende Conjurar Mortos-Vivos e pode lançá-la com uma ação padrão. A CD para resistir a suas magias de Necromancia aumenta em +2. 
+• *Completo.* Você aprende e poder lançar Servo Morto-Vivo. Suas magias de Necromancia custam –1 PM (cumulativo com outras reduções de custo).
+#### PAZ
+O Domínio da Paz existe para tentar impedir todo o tipo de conflito armado por meio da boa e velha diplomacia. Seu poder Canalizar Energia causa dano psíquico não letal. Se a criatura for reduzida a 0 ou menos PV, em vez de cair inconsciente, ela se rende.
+• *Básico.* Você se torna treinado em Diplomacia e pode usar Sabedoria como seu atributo-chave (em vez de Carisma). Quando faz um teste dessa perícia, você pode gastar 1 PM para dobrar seu bônus de treinamento.
+• *Avançado.* Você soma sua Sabedoria em seus PV (em vez de Constituição) e se torna imune às condições alquebrado, esmorecido e frustrado.
+• *Completo.* Quando um inimigo tenta fazer uma ação hostil contra você, você pode gastar 1 PM para fazer um teste de Diplomacia oposto ao teste de Vontade dele. Se você passar, ele perderá sua ação. Se você falhar, ele fica imune a esta habilidade por um dia.
+#### TRAPAÇA
+O Domínio da Trapaça gira em torno do engano, da ilusão e da furtividade. Seu poder Canalizar Energia causa dano psíquico.
+• *Básico.* Para cada círculo de magia que você aprender, você pode aprender uma magia arcana de Encantamento e de Ilusão como se fossem magias divinas e recebe uma perícia a sua escolha entre Enganação, Furtividade, Jogatina ou Ladinagem. Quando faz um teste dessa perícia, você pode gastar 1 PM para dobrar seu bônus de treinamento.
+• *Avançado.* Você recebe mais uma perícia do benefício básico e suas magias de Encantamento e Ilusão custam –1 PM (cumulativo com outras reduções de custo).
+• *Completo.* Você recebe mais uma perícia do benefício básico e a CD para resistir a suas magias de Encantamento e Ilusão aumenta em +2.
+#### VIDA
+O Domínio da Vida concentra-se na energia positiva vibrante, uma das forças fundamentais do universo que sustenta toda a vida. Seu poder Canalizar Energia causa dano de luz.
+• *Básico.* Você soma sua Sabedoria aos pontos de vida restaurados por seus efeitos mágicos de cura e se torna treinado em Cura. Quando faz um teste dessa perícia, você pode gastar 1 PM para dobrar seu bônus de treinamento.
+• *Avançado.* Habilidades mágicas de cura usadas por você e seus aliados em alcance curto custam -1 PM (cumulativo com outras reduções de custo) e curam +1 PV por dado de cura.
+• *Completo.* Quando usa uma habilidade mágica de cura, pode gastar +3 PM para maximizar os efeitos numéricos variáveis dela. Por exemplo, uma magia Curar Ferimentos aprimorada para curar 5d8+5 PV irá curar automaticamente 45 PV, sem a necessidade de rolar dados. Uma habilidade sem efeitos variáveis não pode ser afetada por este poder. Esse efeito segue as regras de aprimoramento.
+## FURIOSO
+Para ser considerado um furioso, a pessoa deve se entregar completamente a esse sentimento primordial conhecido como Fúria, que toma conta completamente do seu corpo e o permite fazer feitos que podem ser considerados inexplicáveis ou até mesmo impossíveis.
+### CARACTERÍSTICAS DE CLASSE
+| Tabela | O Furioso                              |
+| ------ | -------------------------------------- |
+| Nível  | Habilidades de Classe                  |
+| 1º     | Fúria +2, Pele de Ferro                |
+| 2º     | Estilo de Combate, Poder de Furioso    |
+| 3º     | Instinto Selvagem +1 Poder de Furioso  |
+| 4º     | Pele de Aço, Poder de Furioso          |
+| 5º     | Pele de Ferro +1, Poder de Furioso     |
+| 6º     | Fúria +3, Poder de Furioso             |
+| 7º     | Pele de Aço +2, Poder de Furioso       |
+| 8º     | Ignorar Ferimentos, Poder de Furioso   |
+| 9º     | Instinto Selvagem +2, Poder de Furioso |
+| 10º    | Fúria Persistente, Poder de Furioso    |
+| 11º    | Fúria +4, Poder de Furioso             |
+| 12º    | Pele de Ferro +2, Poder de Furioso     |
+| 13º    | Pele de Aço +3, Poder de Furioso       |
+| 14º    | Poder Adicional, Poder de Furioso      |
+| 15º    | Instinto Selvagem +3, Poder de Furioso |
+| 16º    | Fúria +5, Poder de Furioso             |
+| 17º    | Poder Adicional, Poder de Furioso      |
+| 18º    | Pele de Ferro +3, Poder de Furioso     |
+| 19º    | Pele de Aço +3, Poder de Furioso       |
+| 20º    | Fúria Primal, Poder de Furioso         |
+**Pontos de Vida.** Um furioso começa com 24 pontos de vida + Constituição e ganha 6 PV + Constituição por nível.
+**Pontos de Mana.** 3 PM por nível.
+**Perícias.** Fortitude (Con) e Luta (For), mais 4 a sua escolha entre Adestramento (Car), Atletismo (For), Cavalgar (Des), Cura (Sab ou Int), Iniciativa (Des), Intimidação (Car), Ofício (Int), Percepção (Sab), Pontaria (Des), Sobrevivência (Sab) e Vontade (Sab).
+**Proficiências.** Armas marciais e escudos.
+### HABILIDADES DE CLASSE
+**FÚRIA.** Você pode gastar 2 PM para invocar uma fúria selvagem. Você recebe +2 em Força, mas não pode fazer nenhuma ação que exija calma e concentração (como usar a perícia Furtividade ou lançar magias). A cada cinco níveis, pode gastar +1 PM para aumentar o bônus em +1. Sua Fúria termina prematuramente se você ficar inconsciente ou, até o fim da rodada, não provocar ou ser alvo de um efeito (ataque, habilidade, etc...) hostil.
+**PELE DE FERRO.** Você soma sua Constituição na Defesa, limitado pelo seu nível e apenas se não estiver usando armadura pesada. Além disso, no 4º nível, e a cada oito níveis, você recebe +1 na Defesa.
+**ESTILO DE COMBATE.** No 2º nível, você recebe um poder de estilo de combate a sua escolha. Se já possuir um estilo de combate, pode escolher outro poder de combate.
+**PODER DE FURIOSO.** No 2º nível, e a cada nível seguinte, você recebe um poder de furioso a sua escolha. Veja a lista a seguir.
+**INSTINTO SELVAGEM.** No 3º nível, seus instintos são tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido e recebe +1 em Iniciativa, Percepção e Reflexos. Esse bônus aumenta em +1 a cada seis níveis.
+**PELE DE AÇO.** A partir do 5º nível, você recebe redução de dano igual a sua Constituição, limitada pelo seu nível e apenas se não estiver usando armadura pesada. Além disso, no 7º nível, e a cada seis níveis, sua RD aumenta em 2.
+**IGNORAR FERIMENTOS.** A partir do 8º nível, quando sofre dano, você pode gastar uma reação e 2 PM para fazer um teste de Fortitude e reduzir o dano sofrido em um valor igual ao resultado deste teste.
+**FÚRIA PERSISTENTE.** No 10º, sua Fúria só termina prematuramente quando você fica inconsciente.
+**PODER ADICIONAL.** No 14º e 17º níveis, você recebe um poder de furioso adicional a sua escolha (como na habilidade Poder de Furioso). 
+**FÚRIA PRIMAL.** No 20º nível, o bônus que você recebe em Força quando entra em Fúria é dobrado. Por exemplo, se gastar 5 PM, em vez de um bônus de +5, recebe um bônus de +10. Além disso, quando entra em Fúria você pode gastar +5 PM. Se fizer isso, aumenta a duração da Fúria para 1 dia.
+### PODERES DE FURIOSO
+• *Alma de Bronze.* Quando entra em Fúria, você recebe uma quantidade de pontos de vida temporários igual a seu nível + sua Força.
+• *Aumento de Atributo.* Você recebe +1 em um atributo. Você pode escolher este poder várias vezes, mas apenas uma vez por patamar para um mesmo atributo.
+• *Brado Amplo.* O alcance de seus poderes Brado Assombroso e Brado Assustador aumenta para médio. Pré-requisito: Brado Assustador.
+• *Brado Assustador.* Você pode gastar uma ação de movimento e 1 PM para soltar um berro feroz. Todos os inimigos em alcance curto ficam vulneráveis até o fim da cena. *Pré-requisito:* treinado em Intimidação. Medo.
+• *Brado Apavorante.* Você pode usar Brado Apavorante como uma ação padrão, em vez de movimento. Se fizer isso, seus dados de dano aumentam para d8 e você atinge todos os inimigos dentro do alcance. *Pré-requisito:* 10º nível de furioso.
+• *Brado Assombroso.* Pode gastar uma ação de movimento e uma quantidade de PM limitada pela Constituição para emitir um brado assombroso contra um inimigo em alcance curto. Para cada PM que gastar, você causa 1d6 pontos de dano psíquico (Fort CD For reduz à metade). *Pré-requisito:* Brado Assustador. Medo.
+• *Brado Revigorante.* Quando usa Brado Assombroso ou Brado Assustador em Fúria, você recebe uma quantidade de PV temporários igual à metade de seu nível + sua Força. *Pré-requisitos:* Alma de Bronze, Brado Assustador.
+• *Brado Victorioso.* Quando faz um acerto crítico ou reduz um inimigo a 0 PV durante a fúria, você pode usar Brado Assombroso ou Brado Assustador. *Pré-requisitos:* Brado Assustador, Sangue dos Inimigos.
+• *Crítico Brutal.* Seu multiplicador de crítico com armas corpo a corpo e de arremesso aumenta em +1. *Pré-requisito:* 6º nível de furioso.
+• *Destruidor.* Quando causa dano com uma arma corpo a corpo de duas mãos, você pode rolar novamente qualquer resultado 1 ou 2 das rolagens de dano da arma. Pré-requisito: For 1.
+• *Espírito Inquebrável.* Enquanto está em Fúria, você não fica inconsciente por estar com 0 PV ou menos (você ainda morre se chegar em um valor negativo igual à metade de seus pontos de vida máximos). *Pré-requisito:* Alma de Bronze.
+• *Força Indomável.* Você pode gastar 1 PM para somar seu bônus de Fúria em um teste de Força ou Atletismo. Você pode usar esta habilidade depois de rolar o dado, mas deve usá-la antes de o mestre dizer se você passou ou não.
+• *Frenesi.* Uma vez por rodada, se estiver em Fúria e usar a ação agredir para fazer um ataque corpo a corpo ou com uma arma de arremesso, você pode gastar 2 PM para fazer um ataque adicional. Além disso, no 7º, 12º e 17º níveis, vocês pode usar esse poder mais uma vez por rodada, pagando +1 PM adicional por ataque feito nesta rodada com esse poder. 
+• *Fúria Assassina.* Enquanto está em Fúria, você recebe +1 na margem de ameaça de seus ataques.
+• *Fúria Bestial.* O sangue de feras corre em suas veias. Quando entra em fúria, você recebe uma arma natural que causa dano 1d6 pontos de dano. Uma vez por rodada, quando usa a ação agredir para atacar com outra arma, pode gastar 1 PM para fazer um ataque corpo a corpo extra com ela. Se você já possuir uma arma natural do mesmo tipo, o dano dela aumenta em dois passos.
+• *Fúria Célere.* Seu deslocamento aumenta em +3m. Além disso, quando entra em Fúria, pode gastar +1 PM para receber um bônus de +2 em Destreza. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus em 1. O bônus dessa habilidade não é dobrado com Fúria Primal.
+• *Fúria Controlada.* Você consegue manter a compostura mesmo quando entra em Fúria. Você pode fazer ações que exijam calma e concentração (como usar a perícia Furtividade ou lançar magias) mesmo em Fúria. *Pré-requisitos:* 10º nível de furioso.
+• *Fúria Enjaulada.* Quando entra em Fúria, você pode se beneficiar de suas habilidades e poderes de furioso que proibem o uso de armadura pesada (como Pele de Ferro e Pele de Aço) mesmo se estiver usando armadura pesada. *Pré-requisitos:* 8º nível de furioso, proficiência com armaduras pesadas.
+• *Fúria Inabalável.* Quando entra em Fúria, você se torna imune a efeitos de medo, mágicos ou não. *Pré-requisito:* treinado em Vontade.
+• *Fúria Inconsciente.* Sempre que sua Fúria for terminar prematuramente, você pode pagar 1 PM para continuar em fúria mesmo assim.
+• *Fúria Titânica.* Quando entra em Fúria, você pode gastar 2 PM para aumentar seu tamanho em uma categoria; isso aumenta sua Força em +2 e faz com que seu equipamento aumente para o tamanho adequado. O aumento de tamanho dura até sua fúria terminar. *Pré-requisito:* 12º nível de furioso.
+• *Fúria Vigorosa.* Quando entra em Fúria, se não estiver usando armadura pesada, pode gastar o dobro do PM. Se fizer isso, você recebe o bônus de Fúria em Força e Constituição (em vez de apenas em Força). *Pré-requisitos:* 8º nível de furioso.
+• *Golpe Imprudente.* Quando usa a usa a ação agredir, você pode atacar de forma impulsiva. Se fizer isso, você recebe +2 nos testes de ataque e nas rolagens de dano e sofre –5 na Defesa até o início de seu próximo turno.
+• *Golpe Poderoso.* Ao acertar um ataque corpo a corpo ou com uma arma de arremesso, você pode gastar 1 PM para causar um dado extra de dano do mesmo tipo (por exemplo, com um montante, causa +1d6, para um dano total de 3d6; com um machado de guerra, causa +1d12, para um dano total de 2d12).
+• *Golpe Pesado.* Quando usa Ataque Pesado para empurrar, você pode escolher não se deslocar durante a manobra. Se fizer isso e existir uma parede, criatura ou outro objeto sólido no caminho do alvo, ele sofre 1d6 pontos de dano de impacto para cada 3m que for empurrado (se for uma criatura ela também recebe o dano). Se possuir Empurrar Aprimorado, você recebe +2 no teste para empurrar e pode avançar junto com o alvo, como se estivesse arrastando ele no processo. *Pré-requisito:* Ataque Pesado.
+• *Ímpeto.* Uma vez por rodada, você pode gastar 2 PM para realizar uma ação de movimento adicional apenas para se deslocar. *Pré-requisito:* treinado em Iniciativa.
+• *Investida Imprudente.* Quando faz uma investida, você pode aumentar sua penalidade na Defesa pela investida para –5 para receber um bônus de +1d12 na rolagem de dano deste ataque.
+• *Instinto Feral.* Você aplica o bônus de Instinto Selvagem em Adestramento e Cavalgar. *Pré-requisito:* Instinto Selvagem.
+• *Instinto Bruto.* Você aplica o bônus de Instinto Selvagem em Atletismo e Intimidação. *Pré-requisito:* Instinto Selvagem.
+• *Instinto Indomável.* Pode usar Força Indomável com qualquer perícia contemplada por Instinto Selvagem. *Pré-requisitos:* Força Indomável, 10º nível de furioso.
+• *Recuperar o Fôlego.* Você pode gastar uma ação de movimento e uma quantidade de PM limitada por sua Constituição ou pelo seu nível (o que for maior). Para cada PM que gastar, você recupera 1d10+1 pontos de vida.
+• *Revidar.* Uma vez por rodada, quando sofre dano de um ataque corpo a corpo enquanto está em Fúria, você pode gastar uma reação e 2 PM para fazer um ataque corpo a corpo contra a criatura que o atacou.
+• *Sangue dos Inimigos.* Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
+• *Superstição.* Você odeia magia, o que faz com que seja mais resistente a ela. Você recebe resistência a magia +5.
+• *Totem Espiritual.* Você soma sua Sabedoria no seu total de pontos de mana. Escolha um animal espiritual (veja o quadro abaixo). Você aprende e pode lançar uma magia definida pelo animal escolhido (atributo-chave Sabedoria) e pode lançá-la mesmo em fúria. Você conjura como se fosse um druida do seu nível. Além disso, no 12º e 17º níveis, você pode escolher um animal espiritual adicional. *Pré-requisitos:* Sab 1, 4º nível de furioso.
+#### Animais Espirituais 
+Animais espirituais são venerados por tribos e povos do mundo inteiro. Ao receber esse poder você se conecta com um deles, a sua escolha. Sempre que finalizar um descanso, você pode substituir o animal espiritual atual por outro da lista.
+• **Águia.** Sempre atentos, algo nunca passa despercebido pelos olhos de uma águia. Você recebe Alarme ou Detectar Ameaças.
+• **Coruja.** A sábia coruja guia seus discípulos e representa um ideal de educação e conhecimento. Você pode lançar Orientação.
+• **Gato.** O gato é um animal evoluído espiritualmente, por isso são capazes de enxergar além do véu. Você recebe Visão Mística.
+• **Lobo.** O lobo é feroz e letal, e quando ataca, faz isso coordenado com a sua matilha. Você recebe Concentração de Combate.
+• **Cavalo.** Um dos animais mais atléticos, o cavalo é um símbolo de força, liberdade e movimento. Você recebe Primor Atlético.
+• **Raposa**. A sagaz raposa nunca está onde se espera. Você recebe Imagem Espelhada ou uma outra magia de ilusão de 1º círculo.
+• **Serpente.** A serpente pode representar tanto a cura quanto o seu veneno. Você recebe Curar Ferimentos ou Infligir Ferimentos.
+• **Tartaruga.** A tartaruga é capaz de proteger tanto a si mesma como também os seus companheiros. Você recebe Escudo da Fé.
+• **Urso.** O urso é conhecido pelo seu grande vigor e pela sua sobrevivência. Você recebe Proteção Divina ou Suporte Ambiental.
+## INTRÉPIDO
+Um intrépido não é qualquer guerreiro. É sempre um rebelde esperto, mas leal, que considera uma batalha como uma dança onde se move entre os inimigos com estilo e graça e os ataca com velocidade e elegância. Podem tanto desbravar perigos atrás de riquezas, quanto dedicar suas vidas a grandes causas.
+### CARACTERÍSTICAS DE CLASSE
+| Tabela | O Intrépido                                                      |
+| ------ | ---------------------------------------------------------------- |
+| Nível  | Habilidades de Classe                                            |
+| 1º     | Audácia ou Duelo +2, Insôlencia                                  |
+| 2º     | Evasão, Poder de Intrépido                                       |
+| 3º     | Esquiva Sagaz +1, Poder de Intrépido                             |
+| 4º     | Vestuário Pomposo, Poder de Intrépido                            |
+| 5º     | Panache, Poder de Intrépido                                      |
+| 6º     | Bom Capitão +1 ou Duelo +3, Poder de Intrépido                   |
+| 7º     | Esquiva sagaz +2, Poder de Intrépido                             |
+| 8º     | Desembaraçado, Poder de Intrépido                                |
+| 9º     | Esquiva Acrobática, Poder de Intrépido                           |
+| 10º    | Evasão Aprimorada, Poder de Intrépido                            |
+| 11º    | Bom Capitão +2 ou Duelo +4, Esquiva sagaz +3, Poder de Intrépido |
+| 12º    | Ataque Desconcertante, Poder de Intrépido                        |
+| 13º    | Esquiva Resoluta, Poder de Intrépido                             |
+| 14º    | Poder Adicional, Poder de Intrépido                              |
+| 15º    | Esquiva sagaz +4, Poder de Intrépido                             |
+| 16º    | Bom Capitão +3 ou Duelo +5, Poder de Intrépido                   |
+| 17º    | Poder Adicional, Poder de Intrépido                              |
+| 18º    | Sorte E Técnica, Poder de Intrépido                              |
+| 19º    | Esquiva sagaz +5, Poder de Intrépido                             |
+| 20º    | Duelista Supremo ou Sorte Impossível, Poder de Intrépido         |
+**Pontos de Vida.** Um intrépido começa com 16 pontos de vida + Constituição e ganha 4 PV + Constituição por nível.
+**Pontos de Mana.** 3 PM por nível.
+**Perícias.** Luta (For) ou Pontaria (Des), Reflexos (Des), mais 4 a sua escolha entre Acrobacia (Des), Atletismo (For), Atuação (Car), Diplomacia (Car), Enganação (Car), Fortitude (Con), Furtividade (Des), Iniciativa (Des), Intimidação (Car), Intuição (Sab), Jogatina (Car), Luta (For), Ofício (Int), Percepção (Sab), Pilotagem (Des) e Pontaria (Des).
+**Proficiências.** Armas marciais e escudos.
+### HABILIDADES DE CLASSE
+**INCLINAÇÃO INTRÉPIDA.** Intrépidos possuem estilos de vida variados, podem tanto se devotar a ser o melhor espadachim de todos os tempos, como também dedicar a vida vida a explorar o mundo na base da lábia. Escolha uma das opções a seguir. Uma vez feita, essa escolha não pode ser mudada.
+• *Bucaneiro.* Você é um pirata ou corsário, geralmente falastrão. Você recebe a habilidade Audácia.
+• *Mosqueteiro.* Você é um duelista dedicado, geralmente honrado. Você recebe a habilidade Duelo.
+Em certos níveis subsequentes, você recebe outras habilidades dependentes dessa escolha.
+**AUDÁCIA.** Quando faz um teste de perícia, você pode gastar 2 PM para somar seu Carisma no teste. Você não pode usar esta habilidade em testes de ataque. (Apenas Bucaneiros)
+**DUELO.** Você pode gastar 2 PM para escolher um oponente em alcance curto e receber +2 em testes de ataque e rolagens de dano contra ele até o fim da cena. Se atacar outro oponente, o bônus termina. A cada cinco níveis, você pode gastar +1 PM para aumentar o bônus em +1. (Apenas Mosqueteiros)
+**INSOLÊNCIA.** Você soma seu Carisma na Defesa, limitado pelo seu nível. Esta habilidade exige liberdade de movimentos; você não pode usá-la se estiver de armadura pesada ou na condição imóvel.
+**PODER DE INTRÉPIDO.** No 2º nível, e a cada nível seguinte, você recebe um poder de furioso intrépido sua escolha. Veja a lista a seguir.
+**EVASÃO.** A partir do 2º nível, quando sofre um efeito que permite um teste de Reflexos para reduzir o dano à metade, você não sofre dano algum se passar. Você ainda sofre dano normal se falhar no teste de Reflexos. Esta habilidade exige liberdade de movimentos; você não pode usá-la se estiver de armadura pesada ou na condição imóvel.
+**ESQUIVA SAGAZ.** No 3º nível, você recebe +1 na Defesa e em Reflexos. Esse bônus aumenta em +1 a cada quatro níveis. Esta habilidade exige liberdade de movimentos; você não pode usá-la se estiver de armadura pesada ou na condição imóvel.
+**VESTUÁRIO POMPOSO.** A partir do 4º nível, se estiver usando uma capa esvoaçante, um chapéu espalhafatoso ou outro item semelhante aprovado pelo mestre, você pode gastar 3 PM e a ação indicada para gerar um dos efeitos a seguir. Você não consegue vestir esse item sem exibir, por isso vesti-lo requer uma ação padrão (em vez de uma ação de movimento).
+• *Chamar a Atenção (Livre).* Até o fim do seu turno, você reduz a ação necessária para fintar em um passo.
+• *Distração Oportuna (Reação).* Quando faz um teste de Reflexos ou Vontade, você recebe +5 nesse teste.
+• *Efeito Dramático (Livre).* Você recebe +5 no seu próximo teste de perícia baseada em Carisma feito neste turno.
+• *Impulso Destemido (Livre).* Você recebe deslocamento +9m e +5 em Acrobacia e Atletismo por 1 rodada.
+• *Não Pegou! (Reação).* Quando sofre dano, você pode ignorar esse dano. Fazer isso destroi o item.
+• *Paraquedas (Reação).* Quando cai de qualquer altura, você reduz o dano da queda em 3d6.
+**PANACHE.** A partir do 5º nível, sempre que faz um acerto crítico em combate ou reduz um inimigo a 0 PV, você recupera 1 PM.
+**BOM CAPITÃO**. Você recebe +1 em testes de perícia que envolvam comandar uma tripulção ou que sejam feitos dentro de uma embarcação. A cada cinco níveis, esse bônus aumenta em +1. (Apenas Bucaneiros)
+**DESEMBARAÇADO.** No 8º nível, você recebe a habilidade da Inclinação Intrépida que você não escolheu no nível 1 (se for um Bucaneiro recebe Duelo, se for um Mosqueteiro recebe Audácia) e pode usá-la como se tivesse apenas 1 nível de intrépido (você sempre conta como um intrépido de 1º nível para ela e para poderes que a tenham como pré-requisito).
+**ESQUIVA ACROBÁTICA.** No 9º nível, você soma o bônus de Esquiva Sagaz em Acrobacia.
+**EVASÃO APRIMORADA.** No 10º nível, quando sofre um efeito que permite um teste de Reflexos para reduzir o dano à metade, você não sofre dano algum se passar e sofre apenas metade do dano se falhar. Esta habilidade exige liberdade de movimentos; você não pode usá-la se estiver de armadura pesada ou na condição imóvel.
+**ATAQUE DESCONCERTANTE.** No 12º nível, sempre que fizer um acerto crítico você pode gastar 1 PM. Se fizer isso, a criatura fica desprevenida contra seu próximo ataque feito até o fim do seu próximo turno.
+**ESQUIVA RESOLUTA.** No 13º nível, você soma o bônus de Esquiva Sagaz em Inciativa.
+**PODER ADICIONAL.** Nos 14º e 17º níveis, você recebe um poder de intrépido adicional a sua escolha (como na habilidade Poder de Furioso). 
+**SORTE E TÉCNICA.** No 18º nível, quando faz um teste de perícia, um resultado de 19 ou mais no dado sempre é um sucesso, não importando o valor a ser alcançado.
+**DUELISTA SUPREMO.** No 20º nível, o bônus que você recebe nos testes de ataque e rolagens de dano quando usa Duelo é dobrado. Por exemplo, se gastar 5 PM, em vez de um bônus de +5, recebe um bônus de +10. Além disso, pode gastar 1 PM pra rolar novamente qualquer ataque feito por você ou pelo oponente escolhido (uma vez por ataque). (Apenas Mosqueteiros)
+**SORTE IMPOSSÍVEL.** No 20º nível, você encara os piores desafios e ri na cara deles — pois sabe que tem a sorte ao seu lado. Você pode gastar 4 PM para rolar novamente qualquer teste recém realizado e ficar com o melhor resultado. Qualquer resultado 11 ou mais na melhor rolagem será considerado um 20 natural.  Você pode fazer isso múltiplas vezes por teste, mas cada vez gasta +1 PM adicional. (Apenas Bucaneiros)
+### PODERES DE INTRÉPIDO
+• *Abusar dos Fracos.* Quando ataca uma criatura sob efeito de uma condição de medo, seu dano aumenta em um passo. *Pré-requisito:* treinado em Intimidação.
+• *Ambidestria.* Se estiver empunhando duas armas (e pelo menos uma delas for leve) e fizer a ação agredir, você pode fazer dois ataques, um com cada arma. Se fizer isso, sofre –2 em todos os testes de ataque até o seu próximo turno. Se possuir Estilo de Duas Armas, em vez disso não sofre penalidade para usá-lo. *Pré-requisito:* Des 2.
+• *Amigos no Porto.* Quando chega em uma comunidade portuária, você pode fazer um teste de Carisma (CD 10). Se passar, encontra um amigo para o qual pode pedir um favor (a CD aumenta dependendo do tamanho do favor) ou que pode ajudá-lo como parceiro veterano de um tipo a sua escolha por um dia. No 14º nível, passa a ser um parceiro mestre. *Pré-requisitos:* Car 1, Bucaneiro, 6º nível de intrépido.
+• *Aparar.* Quando é atingido por um ataque, você pode gastar 1 PM e uma reação para fazer um teste de ataque com bônus igual ao seu nível (além do normal). Se o resultado do seu teste for maior que o do oponente, você evita o ataque. Esse poder custa uma quantidade de PM adicional igual à quantidade de vezes que foi usado na rodada atual. Você só pode usar este poder se estiver usando uma arma corpo a corpo leve ou ágil. *Pré-requisito*: Esgrimista.
+• *Apostador.* Você pode gastar um dia para encontrar e participar de uma mesa de wyrt ou outro jogo de azar. Escolha um valor e faça um teste de Jogatina contra a CD correspondente: T$ 100 (CD 15), T$ 200 (CD 20), T$ 400 (CD 25), T$ 800 (CD 30), T$ 1.600 (CD 35) e assim por diante. Se passar, você ganha o valor escolhido (ou um item ou favor equivalente, a critério do mestre). Se falhar, perde esse mesmo o valor. A critério do mestre, o lugar onde você está pode limitar ou impossibilitar o uso deste poder. *Pré-requisito:* treinado em Jogatina, Bucaneiro.
+• *Ardil Afiado.* Você pode usar Audácia em testes de ataque. *Pré-requisito*: Bucaneiro, 3º nível de intrépido.
+• *Armado e Preparado.* Você recebe proficiência com armas de fogo e +2 nas rolagens de dano com essas armas.
+• *Ataque Acrobático.* Quando se aproxima de um inimigo com um salto ou pirueta (em termos de jogo, usando Atletismo ou Acrobacia para se mover) e o ataca no mesmo turno, você recebe +2 nesse teste de ataque e seu dano corpo a corpo aumenta em um passo.
+• *Aventureiro Ávido.* Uma vez por rodada, você pode gastar 5 PM para realizar uma ação padrão ou de movimento adicional. Se possuir o poder Surto Heroico, em vez disso seu custo diminui em –2 PM.
+• *Bravata Audaz.* Você jura fazer uma façanha específica, como roubar o tesouro do dragão ou ganhar um beijo do príncipe e da princesa até o fim do baile. Se cumprir a bravata, seus PM aumentam em +2 por nível de intrépido.
+• *Bravata Heróica.* Na primeira rodada de um combate, você desafia um inimigo para derrotá-lo sozinho. Só você pode causar dano ou usar efeitos contra esse inimigo; caso seus aliados interfiram, a bravata falha. Se cumprir a bravata, seus PVs aumentam em +2 por nível de intrépido.
+• *Bravata Imprudente.* Na primeira rodada de um combate, você pode jurar derrotar seus inimigos com uma restrição a sua escolha, como lutar com uma mão nas costas, de guarda aberta (em termos de jogo, desprevenido), de olhos vendados (cego) etc. Uma restrição só é válida se prejudicá-lo (por exemplo, lutar com uma mão nas costas só vale como restrição se você luta com duas armas). O mestre tem a palavra final sobre a validade de uma restrição. Você sofre a penalidade durante todo o combate, mas, se vencer, recebe +2 nos testes de ataque e na margem de ameaça.
+• *Bravura Indômita.* Enquanto tiver uma quantidade de pontos de vida igual ou inferior ao seu nível, seus poderes de intrépido custam –1 PM.
+• *Cano Longo.* O alcance de suas armas de fogo aumenta em uma categoria (de curto para médio, de médio para longo) e, quando faz um ataque com uma dessas armas, você pode 1 PM para causar um dado extra de dano do mesmo tipo. *Pré-requisitos:* Armado e Preparado, 10º nível de intrépido.
+• *Charme Salvador.* Quando usa Audácia em um teste de resistência, o custo desta habilidade é reduzido em –1 PM. *Pré-requisitos:* Audácia.
+• *Confiança Deliberada.* Quando usa a ação agredir, você pode gastar 1 PM. Se fizer isso e pelo menos um de seus ataques for um acerto crítico, você pode fazer um ataque adicional nesta ação. *Pré-requisito*: Mosqueteiro, 10º nível de intrépido.
+• *Duelista Defensivo.* Quando usa Duelo, pode gastar o dobro do PM. Se fizer isso, o oponente escolhido recebe uma penalidade em seus testes de ataque e rolagens de dano igual ao bônus recebido pela habilidade até o fim da cena. *Pré-requisito*: Duelo.
+• *En Garde.* Você pode gastar uma ação de movimento e 1 PM para assumir uma postura de luta. Até o fim da cena, se estiver usando uma arma corpo a corpo leve ou ágil, você recebe +2 na margem de ameaça com essas armas e +2 na Defesa. *Pré-requisito:* Esgrimista.
+• *Entrada Triunfal.* Uma vez por aventura, no início de uma cena em que houver outras pessoas (como ao chegar em um baile ou taverna), você pode fazer um teste de uma perícia a sua escolha (CD 20). Essa perícia deve se relacionar com sua entrada triunfal — por exemplo, Acrobacia para surgir balançando-se no castiçal do salão ou Diplomacia para um discurso impressionante (o mestre tem a palavra final sobre a escolha da perícia). Se passar, você recebe 5 PM temporários cumulativos, +5 PM para cada 10 pontos pelos quais o resultado do teste exceder a CD (10 PM para um resultado 30, 15 PM para um resultado 40 e assim por diante) até o fim da cena.
+• *Esgrimista.* Escolha um atributo mental (Inteligência, Sabedoria ou Carisma). Se estiver usando uma arma corpo a corpo leve ou ágil, você soma esse atributo em rolagens de dano (limitado pelo seu nível e não cumulativo com o mesmo atributo). *Pré-requisito:* Int, Sab ou Car 1.
+• *Flagelo dos Mares.* Você pode lançar Amedrontar (atributo-chave Carisma). Esta não é uma habilidade mágica e provém de sua capacidade de incutir medo em seus inimigos. *Pré-requisito:* treinado em Intimidação.
+• *Folião.* Você sabe fazer amizades durante festas, de noitadas em tavernas a bailes na corte. Nesses locais, você recebe +2 em testes de perícias de Carisma e a atitude de todas as pessoas em relação a você melhora em uma categoria. *Pré-requisito:* Car 1.
+• *Galanteio Enconrajador.* O sorriso de uma bela dama ou cavalheiro inspira suas façanhas. Uma vez por cena, você pode fazer um teste de Diplomacia oposto no teste de Vontade de uma criatura inteligente (Int –3 ou maior) em alcance curto que você considere atraente. Se passar, você recebe 1d6 PM temporários cumulativos. 
+• *Grudar o Cano.* Quando faz um ataque à distância com uma arma de fogo contra um oponente adjacente, você não sofre a penalidade de –5 no teste de ataque e aumenta seu dano em um passo. *Pré-requisitos:* treinado em Luta, Pistoleiro.
+• *Main Gauche.* Se estiver empunhando duas armas leves (ou uma arma ágil e uma arma leve), você recebe +2 na Defesa quando empunha essas armas. Pré-requisitos: Esgrimista.
+• *Mão Amiga.* Seu jeito ousado atrai simpatia. Uma vez por cena, você pode gastar 1 PM para receber o benefício de um parceiro iniciante de um tipo a sua escolha por uma rodada — desde que haja pessoas que possam ajudá-lo por perto. Isto não conta em seu limite de parceiros. *Pré-requisito:* Car 3.
+• *Orgulhoso Justificado.* Você pode gastar uma ação de movimento e 1 PM para exacerbar suas qualidades em voz alta. Faça um teste de Intimidação: para cada 10 pontos no resultado de seu teste, você recebe +1 em testes de ataque e rolagens de dano por uma rodada. *Pré-requisito:* Mosqueteiro, treinado em Intimidação.
+• *Ousadia Inabalável.* Quando usa Ousadia Inconsequente e falha, pode gastar 1 PM para ignorar as penalidades. *Pré-requisito:* Ousadia Inconsequente.
+• *Ousadia Inconsequente.* Uma vez por rodada, quando faz um teste de perícia, você pode rolar 1d6 e adicionar o resultado ao seu teste. Porém, se falhar nesse teste, você sofre -1 em testes de perícia até o fim da cena e não pode mais usar esta habilidade. *Pré-requisito:* Bucaneiro.
+• *Passo das Ondas.* Quando acerta um ataque corpo a corpo, você pode gastar 1 PM para se mover até a metade de seu deslocamento. Pré-requisito: Pernas do Mar.
+• *Pernas do Mar.* Você recebe +2 em Acrobacia e Atletismo. Além disso, quando está se equilibrando ou escalando, você não fica desprevenido e seu deslocamento não é reduzido à metade. *Pré-requisito:* Bucaneiro.
+• *Presença Paralisante.* Você soma seu Carisma em Iniciativa e, se for o primeiro na iniciativa, ganha uma ação padrão extra na primeira rodada. *Pré-requisitos:* Car 1, 4º nível de intrépido.
+• *Pirouette.* Enquanto está sob efeito de En Garde, você pode gastar uma ação de movimento para receber +5 na Defesa por 1 rodada. Pré-requisito: En Garde, Mosqueteiro.
+• *Pistoleiro.* Você considera armas de fogo de uma mão como armas corpo a corpo leves para efeitos de suas habilidades de intrépido. *Pré-requisitos:* Armado e Preparado.
+• *Remise.* Enquanto está sob efeito de En Garde, uma vez por rodada, quando usa a ação agredir, você pode gastar 2 PM para realizar um ataque adicional. *Pré-requisitos:* 6° nível de intrépido, En Garde.
+• *Ripostar.* Quando usa a habilidade aparar e evita o ataque, você pode gastar 1 PM. Se fizer isso, pode fazer um ataque corpo a corpo imediato contra o inimigo que o atacou (se ele estiver em alcance). Esse poder tem o custo em PM dobrado cada vez que é usado até o fim da rodada. *Pré-requisitos:* Aparar, 12º nível de intrépido.
+• *Todos Por Um.* Você recebe +2 na Defesa e em testes de resistência se um de seus aliados estiver a 1,5m de você ou do inimigo que o atacou. *Pré-requisitos:* Um Por Todos.
+• *Touché.* Quando se aproxima de um inimigo e o ataca com uma arma corpo a corpo leve ou ágil no mesmo turno, você pode gastar 2 PM para aumentar seu dano em um passo e receber +5 na margem de ameaça neste ataque. *Pré-requisitos:* Esgrimista, 10º nível de intrépido.
+• *Um Por Todos.* Você pode gastar 1 PM e uma ação de movimento para erguer sua arma e encorajar seus aliados, concedendo-lhes um bônus de +2 na Defesa e em testes de perícias por 1 rodada. *Pré-requisitos:* Car 1, Mosqueteiro, treinado em Diplomacia.
+• *Vou, Vejo e Disparo.* Se você for o primeiro na iniciativa e tiver uma arma de fogo carregada em mãos, pode gastar uma ação livre e 2 PM para fazer um ataque com essa arma contra uma criatura que possa ver. *Pré-requisitos:* Treinado em Iniciativa, Pistoleiro.
+#### Bravatas
+Audazes e imprudentes, intrépidos têm o costume da bravata — a promessa pública de realizar uma façanha, às vezes atrelada a uma restrição, como “Navegarei até Galrasia com um barco furado!”. Todas as Bravatas compartilham as seguintes regras.
+• Ativar uma Bravata gasta 1 PM e é uma ação livre.
+• Uma Bravata deve envolver um desafio real. Em termos de jogo, deve ser em feita em um encontro com ND igual ou maior que o nível do intrépido, ou envolver um teste de uma perícia escolhida pelo mestre com uma CD igual a 15 + nível do intrépido.
+• Você só pode ter uma Bravata de cada tipo ativa por vez. Caso falhe em uma Bravata ou desista dela, você perde todos os seus PM e só pode recuperá-los a partir do próximo dia.
+• Quando você cumpre uma Bravata, recebe um benefício permanente.

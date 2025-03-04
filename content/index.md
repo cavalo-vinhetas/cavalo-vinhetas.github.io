@@ -1,4 +1,4 @@
 ---
-title: Sossego100
+title: 100Sossego
 ---
-Homebrews para Tormenta20
+Um homebrew genérico para Tormenta20.
