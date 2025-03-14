@@ -1,5 +1,6 @@
 Um intrépido não é qualquer guerreiro. É sempre um rebelde esperto, mas leal, que considera uma batalha como uma dança onde se move entre os inimigos com estilo e graça e os ataca com velocidade e elegância. Podem tanto desbravar perigos atrás de riquezas, quanto dedicar suas vidas a grandes causas.
-### CARACTERÍSTICAS DE CLASSE
+### TABELA: O FURIOSO
+
 | Tabela | O Intrépido                                                      |
 | ------ | ---------------------------------------------------------------- |
 | Nível  | Habilidades de Classe                                            |
@@ -23,6 +24,7 @@ Um intrépido não é qualquer guerreiro. É sempre um rebelde esperto, mas leal
 | 18º    | Sorte E Técnica, Poder de Intrépido                              |
 | 19º    | Esquiva sagaz +5, Poder de Intrépido                             |
 | 20º    | Duelista Supremo ou Sorte Impossível, Poder de Intrépido         |
+### CARACTERÍSTICAS DE CLASSE
 **Pontos de Vida.** Um intrépido começa com 16 pontos de vida + Constituição e ganha 4 PV + Constituição por nível.<BR>**Pontos de Mana.** 3 PM por nível.<BR>**Perícias.** Luta (For) ou Pontaria (Des), Reflexos (Des), mais 4 a sua escolha entre Acrobacia (Des), Atletismo (For), Atuação (Car), Diplomacia (Car), Enganação (Car), Fortitude (Con), Furtividade (Des), Iniciativa (Des), Intimidação (Car), Intuição (Sab), Jogatina (Car), Luta (For), Ofício (Int), Percepção (Sab), Pilotagem (Des) e Pontaria (Des).<BR>**Proficiências.** Armas marciais e escudos.
 ### HABILIDADES DE CLASSE
 **INCLINAÇÃO INTRÉPIDA.** Intrépidos possuem estilos de vida variados, podem tanto se devotar a ser o melhor espadachim de todos os tempos, como também dedicar a vida vida a explorar o mundo na base da lábia. Escolha uma das opções a seguir. Uma vez feita, essa escolha não pode ser mudada.<BR>
