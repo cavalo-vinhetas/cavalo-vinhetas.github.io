@@ -48,6 +48,7 @@ Um paladino sempre luta em nome do bem e da justiça. Ele recebe os seus poderes
 • *Aura Acelerada.* Quando usa Aura Sagrada, você pode gastar +2 PM para diminuir a ação necessária em uma categoria (de padrão para movimento, de movimento para livre). <br>
 • *Aura Antimagia.* Enquanto sua aura estiver ativa, você e os aliados dentro da aura podem rolar novamente qualquer teste de resistência contra magia recém realizado. *Pré-requisito:* 14° nível de paladino. (efeito mágico)<br>
 • *Aura Ardente.* Enquanto sua aura estiver ativa, no início de cada um de seus turnos, espíritos e mortos-vivos a sua escolha dentro dela sofrem dano de luz igual a 5 + seu Carisma. *Pré-requisito:* 10° nível de paladino. (efeito mágico)<br>
+• *Aura Bélica.* Quando usa Aura Sagrada, você pode gastar +3 PM. Se fizer isso, quando você e seus aliados dentro da aura usam a ação agredir, vocês podem gastar 2 PM para realizar um ataque adicional uma vez por rodada. *Pré-requisito:* 12° nível de paladino. (efeito mágico)<br>
 • *Aura de Cura.* Enquanto sua aura estiver ativa, no início de seus turnos, você e os aliados a sua escolha dentro dela curam um número de PV igual a 5 + seu Carisma. *Pré-requisito:* 6° nível de paladino. (efeito mágico)<br>
 • *Aura de Invencibilidade.* Enquanto sua aura estiver ativa, você ignora o primeiro dano que sofrer na cena. O mesmo se aplica a seus aliados dentro da aura. *Pré-requisito:* 18° nível de paladino. (efeito mágico)<br>
 • *Coragem Total.* Você é imune a efeitos de medo, mágicos ou não.<br> 
@@ -66,12 +67,12 @@ Um paladino sempre luta em nome do bem e da justiça. Ele recebe os seus poderes
 • *Montaria Corajosa.* Sua montaria concede +1d8 em rolagens de dano corpo a corpo (cumulativo com qualquer bônus que ela já forneça como parceiro). *Pré-requisito:* Montaria Sagrada.<br>
 • *Marca da Iluminação.* Você pode gastar 1 PM para marcar um inimigo em alcance curto. Quando acerta um ataque corpo a corpo nesse inimigo, você recebe 2 PM temporários. Você pode ganhar um máximo de PM temporários por cena igual ao seu nível e eles desaparecem no final da cena.<br>
 • *Orar.* Você aprende e pode lançar uma magia divina de 1º círculo a sua escolha. Seu atributo-chave para esta magia é Carisma. Você pode escolher este poder quantas vezes quiser. (efeito mágico)<br> 
-• *Punição Divina.* Ao acertar um ataque corpo a corpo, você pode gastar 1 PM causar +1d6 pontos de dano de luz contra inimigos jurados ou criaturas malignas (a critério do mestre). *Pré-requisitos:* Juramento do Vingador.<br>
+• *Punição Divina.* Ao acertar um ataque corpo a corpo, você pode gastar 1 PM causar +1d8 pontos de dano de luz contra inimigos jurados ou criaturas malignas (a critério do mestre). Qualquer efeito que aumente o passo de dano do seu Golpe Divino, também aumenta o dano causado por esse poder. *Pré-requisitos:* Juramento do Vingador.<br>
 • *Reparar Injustiça.* Uma vez por rodada, quando um oponente em alcance curto acerta um ataque em você ou em um de seus aliados, você pode gastar 2 PM para fazer este oponente repetir o ataque, escolhendo o pior entre os dois resultados. <br>
 • *Sacrifício.* Uma vez por rodada, quando um aliado sob efeito de Égide Sagrada for alvo de um efeito hostil, você pode gastar uma reação e 3 PM para se tornar o alvo do efeito em seu lugar. Se o efeito for um ataque, ele te acerta automaticamente, já se provocar um teste de resistência de Reflexos, você falha automaticamente. *Pré-requisito:* treinado em Fortitude, Juramento do Guardião, Égide Sagrada.<br>
 • *Virtude Paladinesca: Caridade.* O custo de suas habilidades de paladino que tenham um aliado como alvo é reduzido em –1 PM. <br>
 • *Virtude Paladinesca: Castidade.* Você se torna imune a efeitos de encantamento e recebe +5 em testes de Intuição para perceber blefes. <br>
-• *Virtude Paladinesca: Compaixão.* Você pode usar Cura pelas Mãos em alcance curto e, para cada PM que gastar, cura 2d6+1 (em vez de 1d8+1). <br>
+• *Virtude Paladinesca: Compaixão.* Você pode usar Cura pelas Mãos em alcance curto e os dados de cura dessa habilidade aumentam em um passo. <br>
 • *Virtude Paladinesca: Humildade.* Na primeira rodada de um combate, você pode gastar uma ação completa para rezar e pedir orientação. Você recebe uma quantidade de PM temporários igual ao seu Carisma (duram até o fim da cena).<br>
 • *Virtude Paladinesca: Temperança.* Quando ingere um alimento, item alquímico ou poção, você consome apenas metade do item. Na prática, cada item desses rende duas “doses” para você.<br>
 #### Julgamentos Divinos
