@@ -1,8 +1,7 @@
 Para ser considerado um furioso, a pessoa deve se entregar completamente a esse sentimento primordial conhecido como Fúria, que toma conta completamente do seu corpo e o permite fazer feitos que podem ser considerados inexplicáveis ou até mesmo impossíveis. A única certeza sobre um furioso é que ele é tão forte quanto as maiores feras.
 ### TABELA: O FURIOSO
-| Tabela | O Furioso                              |
-| ------ | -------------------------------------- |
 | Nível  | Habilidades de Classe                  |
+| ------ | -------------------------------------- |
 | 1º     | Fúria +2, Pele de Ferro                |
 | 2º     | Estilo de Combate, Poder de Furioso    |
 | 3º     | Instinto Selvagem +1 Poder de Furioso  |
