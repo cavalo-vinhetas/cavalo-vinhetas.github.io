@@ -1,4 +1,4 @@
-Para ser considerado um furioso, a pessoa deve se entregar completamente a esse sentimento primordial conhecido como Fúria, que toma conta completamente do seu corpo e o permite fazer feitos que podem ser considerados inexplicáveis ou até mesmo impossíveis.<br>
+Para ser considerado um furioso, a pessoa deve se entregar completamente a esse sentimento primordial conhecido como Fúria, que toma conta completamente do seu corpo e o permite fazer feitos que podem ser considerados inexplicáveis ou até mesmo impossíveis. A única certeza sobre um furioso é que ele é tão forte quanto as maiores feras.
 ### TABELA: O FURIOSO
 | Tabela | O Furioso                              |
 | ------ | -------------------------------------- |
@@ -28,13 +28,14 @@ Para ser considerado um furioso, a pessoa deve se entregar completamente a esse 
 ### HABILIDADES DE CLASSE
 **FÚRIA.** Você pode gastar 2 PM para invocar uma fúria selvagem. Você recebe +2 em Força, mas não pode fazer nenhuma ação que exija calma e concentração (como usar a perícia Furtividade ou lançar magias). A cada cinco níveis, pode gastar +1 PM para aumentar o bônus em +1. Sua Fúria termina prematuramente se você ficar inconsciente ou, até o fim da rodada, não provocar ou ser alvo de um efeito (ataque, habilidade, etc...) hostil.<BR>
 **PELE DE FERRO.** Você soma sua Constituição na Defesa, limitado pelo seu nível e apenas se não estiver usando armadura pesada. Além disso, no 4º nível, e a cada oito níveis, você recebe +1 na Defesa.<BR>
+**PRESENÇA INTIMIDANTE.** Você soma sua Constituição em Intimidação (limitado pelo seu nível). <br>
 **ESTILO DE COMBATE.** No 2º nível, você recebe um poder de estilo de combate a sua escolha. Se já possuir um estilo de combate, pode escolher outro poder de combate.<BR>
 **PODER DE FURIOSO.** No 2º nível, e a cada nível seguinte, você recebe um poder de furioso a sua escolha. Veja a lista a seguir.<BR>
 **INSTINTO SELVAGEM.** No 3º nível, seus instintos são tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido e recebe +1 em Iniciativa, Percepção e Reflexos. Esse bônus aumenta em +1 a cada seis níveis.<BR>
 **PELE DE AÇO.** A partir do 5º nível, você recebe redução de dano igual a sua Constituição, limitada pelo seu nível e apenas se não estiver usando armadura pesada. Além disso, no 7º nível, e a cada seis níveis, sua RD aumenta em 2.<BR>
 **IGNORAR FERIMENTOS.** A partir do 8º nível, quando sofre dano, você pode gastar uma reação e 2 PM para fazer um teste de Fortitude e reduzir o dano sofrido em um valor igual ao resultado deste teste.<BR>
-**FÚRIA PERSISTENTE.** No 10º, sua Fúria só termina prematuramente quando você fica inconsciente.
-**PODER ADICIONAL.** No 14º e 17º níveis, você recebe um poder de furioso adicional a sua escolha (como na habilidade Poder de Furioso). <BR>
+**FÚRIA PERSISTENTE.** No 10º, sua Fúria só termina prematuramente quando você fica inconsciente.<BR>
+**PODER ADICIONAL.** No 14º nível, você recebe um poder de furioso adicional a sua escolha (como na habilidade Poder de Furioso). <BR>
 **FÚRIA PRIMAL.** No 20º nível, o bônus que você recebe em Força quando entra em Fúria é dobrado. Por exemplo, se gastar 5 PM, em vez de um bônus de +5, recebe um bônus de +10. Além disso, quando entra em Fúria você pode gastar +5 PM. Se fizer isso, aumenta a duração da Fúria para 1 dia.<BR>
 ### PODERES DE FURIOSO
 • *Alma de Bronze.* Quando entra em Fúria, você recebe uma quantidade de pontos de vida temporários igual a seu nível + sua Força.<BR>
