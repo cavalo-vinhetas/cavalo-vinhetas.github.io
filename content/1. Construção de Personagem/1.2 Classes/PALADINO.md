@@ -21,7 +21,7 @@ Um paladino sempre luta em nome do bem e da justiça. Ele recebe os seus poderes
 | 17º       | Golpe Divino (+5d8), Poder de Paladino         |
 | 18º       | Cura pelas Mãos (+5d8+5 PV), Poder de Paladino |
 | 19º       | Aura Suprema, Poder de Paladino                |
-| 20º       | Redentor do Mundo, Poder de Paladino           |
+| 20º       | Redentor / Vingador Sagrado, Poder de Paladino |
 ### CARACTERÍSTICAS DE CLASSE
 **Pontos de Vida.** Um paladino começa com 20 pontos de vida + Constituição e ganha 5 PV + Constituição por nível.<br>
 **Pontos de Mana.** 3 PM por nível.<br>
