@@ -85,7 +85,7 @@ Paladinos podem se devotar as mais diversas causas, ou mesmo a pessoas e lugares
 O cavaleiro é o mais honrado dos paladinos, se distingue dos outros pelos seus ideais e por sua autoconfiança. Ele nunca se rebaixa ao nível dos covardes ou desesperados, mas não por se achar superior, e sim por acreditar ser o correto.<br>
 **CÓDIGO DE HONRA.** Você não pode se beneficiar do bônus de flanquear ou das penalidades das condições caído e desprevenido que afetem seus inimigos. Você também segue o Código de Conduta do Herói. No 8º nível, recebe Aura.<br>
 **HABILIDADES.** No 1º nível você recebe as habilidades Honra Inabalável e Nascido para a Sela. No 8º nível, recebe Aura Inabalável. <br>
-**ALMA HONRADA.** Você recebe Coragem Total. Além disso, quando faz a ação investida, você pode gastar 2 PM. Se fizer isso, causa +2d8 pontos de dano. Você deve usar esta habilidade antes de rolar o ataque.<br>
+**ALMA HONRADA.** Você recebe o poder Coragem Total. Além disso, quando faz a ação investida, você pode gastar 2 PM. Se fizer isso, causa +2d8 pontos de dano. Você deve usar esta habilidade antes de rolar o ataque.<br>
 **NASCIDO PARA SELA.** Você se torna treinado em Cavalgar, ou recebe +2 em Cavalgar se já for treinado, e recebe os benefícios do poder Ginete. Se já possuir ou receber este poder, recebe Montaria Sagrada, em vez disso.<br>
 **AURA INABALÁVEL.** No 8º nível, quando usa Aura Sagrada, você pode gastar +3 PM. Se fizer isso, você e aliados dentro da aura recebem um bônus em testes de Intuição e resistência a efeitos mentais iguais ao seu Carisma. A cada quatro níveis, você pode gastar +2 PM para aumentar o bônus em testes de Intuição em +2.<br>
 #### JURAMENTO DO GUARDIÃO
@@ -105,7 +105,7 @@ O herói é a norma dos paladinos, um guerreiro de armadura brilhante que sempre
 #### JURAMENTO DO SANTO
 O santo é o mais altruísta dos paladinos, um idealista e pacifista que tem como objetivo resolver conflitos, somente partindo para a violência como um último recurso. Ele sempre abre mão das suas próprias vontades pelo bem maior.<br>
 **CÓDIGO DE CONDUTA.** Você não pode matar criaturas inteligentes (Int -3 ou maior). Pode atacar e causar dano, mas jamais levar à morte. Você também segue o Código de Conduta do Herói.<br>
-**HABILIDADES.** No 1º nível você recebe as habilidades Aura Benta e Emissário da Paz. No 8º nível, recebe Aura Benta.<br>
+**HABILIDADES.** No 1º nível você recebe as habilidades Emissário da Paz e Palavras Pacificadoras. No 8º nível, recebe Aura Benta.<br>
 **EMISSÁRIO DA PAZ.** Você se torna treinado em Diplomacia, ou recebe +2 em Diplomacia se já for treinado, e recebe o poder Ataque Piedoso. <br>
 **PALAVRAS PACIFICADORAS.** Você pode gastar uma ação padrão e 1 PM para acalmar uma criatura em alcance curto. O alvo sofre 2d8+2 pontos de dano psíquico não letal e, se for uma criatura do tipo lacaio, fica pasmo (Von CD Car reduz à metade e evita a condição; uma criatura só pode ficar pasma por esta habilidade uma vez por cena). Se a criatura for reduzida a 0 ou menos PV, em vez de cair inconsciente, ela se rende. A cada quatro níveis, você pode gastar +1 PM para aumentar o dano em +2d8+2. A partir do 5º nível, quando usa esta habilidade, você pode gastar +2 PM. Se fizer isso, afeta todas as criaturas à sua escolha em alcance curto.<br>
 **AURA ARREFECEDORA.** No 8º nível, quando usa Aura Sagrada, você pode gastar +3 PM. Se fizer isso, inimigos dentro da aura sofrem -1 em testes de perícia e na Defesa. A cada quatro níveis, você pode gastar +2 PM para diminuir essas penalidades em -1. <br>
