@@ -26,7 +26,7 @@ Um intrépido não é qualquer guerreiro. É sempre um rebelde esperto, mas leal
 **Pontos de Vida.** Um intrépido começa com 16 pontos de vida + Constituição e ganha 4 PV + Constituição por nível.<BR>**Pontos de Mana.** 3 PM por nível.<BR>**Perícias.** Luta (For) ou Pontaria (Des), Reflexos (Des), mais 4 a sua escolha entre Acrobacia (Des), Atletismo (For), Atuação (Car), Diplomacia (Car), Enganação (Car), Fortitude (Con), Furtividade (Des), Iniciativa (Des), Intimidação (Car), Intuição (Sab), Jogatina (Car), Luta (For), Ofício (Int), Percepção (Sab), Pilotagem (Des) e Pontaria (Des).<BR>**Proficiências.** Armas marciais e escudos.
 ### HABILIDADES DE CLASSE
 **ESTILO DE COMBATE.** Você recebe um poder de estilo de combate a sua escolha. Se já possuir um estilo de combate, pode escolher outro poder de combate.<br>
-**INCLINAÇÃO INTRÉPIDA.** Intrépidos possuem estilos de vida variados, podem tanto se devotar a ser o melhor espadachim de todos os tempos, como também dedicar a vida vida a explorar o mundo na base da lábia. Escolha uma das opções a seguir. Uma vez feita, essa escolha não pode ser mudada.<BR>
+**INCLINAÇÃO INTRÉPIDA.** Intrépidos possuem estilos de vida variados, podem tanto se devotar a ser o melhor espadachim de todos os tempos, como também dedicar a vida a explorar o mundo na base da lábia. Escolha uma das opções a seguir. Uma vez feita, essa escolha não pode ser mudada.<BR>
 • *Bucaneiro.* Você é um pirata ou corsário, geralmente falastrão. Você recebe a habilidade Audácia.<BR>
 • *Mosqueteiro.* Você é um duelista dedicado, geralmente honrado. Você recebe a habilidade Duelo.<BR>
 Em certos níveis subsequentes, você recebe outras habilidades dependentes dessa escolha.<BR>
