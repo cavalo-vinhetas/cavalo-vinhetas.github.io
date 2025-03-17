@@ -48,7 +48,7 @@ Um paladino sempre luta em nome do bem e da justiça. Ele recebe os seus poderes
 • *Aura Acelerada.* Quando usa Aura Sagrada, você pode gastar +2 PM para diminuir a ação necessária em uma categoria (de padrão para movimento, de movimento para livre). <br>
 • *Aura Antimagia.* Enquanto sua aura estiver ativa, você e os aliados dentro da aura podem rolar novamente qualquer teste de resistência contra magia recém realizado. *Pré-requisito:* 14° nível de paladino. (efeito mágico)<br>
 • *Aura Ardente.* Enquanto sua aura estiver ativa, no início de cada um de seus turnos, espíritos e mortos-vivos a sua escolha dentro dela sofrem dano de luz igual a 5 + seu Carisma. *Pré-requisito:* 10° nível de paladino. (efeito mágico)<br>
-• *Aura Bélica.* Quando usa Aura Sagrada, você pode gastar +3 PM. Se fizer isso, quando você e seus aliados dentro da aura usam a ação agredir, vocês podem gastar 2 PM para realizar um ataque adicional uma vez por rodada. *Pré-requisito:* 12° nível de paladino. (efeito mágico)<br>
+• *Aura Bélica.* Quando usa Aura Sagrada, você pode gastar +3 PM. Se fizer isso, suas armas e as dos aliados dentro da aura recebem o encanto veloz. *Pré-requisito:* 12° nível de paladino. (efeito mágico)<br>
 • *Aura de Cura.* Enquanto sua aura estiver ativa, no início de seus turnos, você e os aliados a sua escolha dentro dela curam um número de PV igual a 5 + seu Carisma. *Pré-requisito:* 6° nível de paladino. (efeito mágico)<br>
 • *Aura de Invencibilidade.* Enquanto sua aura estiver ativa, você ignora o primeiro dano que sofrer na cena. O mesmo se aplica a seus aliados dentro da aura. *Pré-requisito:* 18° nível de paladino. (efeito mágico)<br>
 • *Coragem Total.* Você é imune a efeitos de medo, mágicos ou não.<br> 
