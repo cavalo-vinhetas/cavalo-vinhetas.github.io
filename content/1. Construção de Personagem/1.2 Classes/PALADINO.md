@@ -8,19 +8,19 @@ Um paladino sempre luta em nome do bem e da justiça. Ele recebe os seus poderes
 | 4º        | Égide Sagrada, Poder de Paladino               |
 | 5º        | Golpe Divino (+2d8), Poder de Paladino         |
 | 6º        | Cura pelas Mãos (+2d8+2 PV), Poder de Paladino |
-| 7º        | Aura Poderosa, Poder de Paladino               |
+| 7º        | Aura Poderosa (9m), Poder de Paladino          |
 | 8º        | Aura do Juramento, Poder de Paladino           |
 | 9º        | Golpe Divino (+3d8), Poder de Paladino         |
 | 10º       | Cura pelas Mãos (+3d8+3 PV), Poder de Paladino |
-| 11º       | Aura Grandiosa, Poder de Paladino              |
+| 11º       | Aura Poderosa (18m), Poder de Paladino         |
 | 12º       | Égide Antimagia, Poder de Paladino             |
 | 13º       | Golpe Divino (+4d8), Poder de Paladino         |
 | 14º       | Cura pelas Mãos (+4d8+4 PV), Poder de Paladino |
-| 15º       | Aura Majestosa, Poder de Paladino              |
+| 15º       | Aura Poderosa (36m), Poder de Paladino         |
 | 16º       | Égide Refletora, Poder de Paladino             |
 | 17º       | Golpe Divino (+5d8), Poder de Paladino         |
 | 18º       | Cura pelas Mãos (+5d8+5 PV), Poder de Paladino |
-| 19º       | Aura Suprema, Poder de Paladino                |
+| 19º       | Aura Poderosa (72m), Poder de Paladino         |
 | 20º       | Redentor / Vingador Sagrado, Poder de Paladino |
 ### CARACTERÍSTICAS DE CLASSE
 **Pontos de Vida.** Um paladino começa com 20 pontos de vida + Constituição e ganha 5 PV + Constituição por nível.<br>
@@ -33,7 +33,7 @@ Um paladino sempre luta em nome do bem e da justiça. Ele recebe os seus poderes
 **CURA PELAS MÃOS.** A partir do 2º nível, você pode gastar uma ação de movimento e 1 PM para curar 1d8+1 pontos de vida de um alvo em alcance corpo a corpo (incluindo você). A cada quatro níveis, você pode gastar +1 PM para aumentar os PV curados em +1d8+1. Esta habilidade pode causar dano de luz a mortos-vivos, exigindo um ataque desarmado. A partir do 6º nível, você pode gastar +1 PM quando usa Cura pelas Mãos para anular uma condição afetando o alvo, entre abalado, apavorado, atordoado, cego, doente, exausto, fatigado ou surdo. (efeito mágico)<br>
 **AURA SAGRADA.** No 3º nível, você pode gastar 1 PM para gerar uma aura de luz com 4,5m de raio a partir de você e duração sustentada. Você e os aliados dentro da aura somam seu Carisma (limitado pelo seu nível) nos testes de resistência. (efeito mágico)<br>
 **ÉGIDE SAGRADA.** No 4º nível, Você pode gastar uma ação de movimento e 2 PM para recobrir de energia seu escudo ou símbolo sagrado. Até o fim da cena, você e todos os aliados adjacentes recebem um bônus na Defesa igual ao seu Carisma.<br>
-**AURA PODEROSA.** No 7º nível, quando usa Aura Sagrada, você pode gastar +2 PM para dobrar o raio dela. A cada quatro níveis, você pode fazer isso novamente, gastando o dobro do PM. <br>
+**AURA PODEROSA.** No 7º nível e a cada quatro níveis, quando usa Aura Sagrada, você pode gastar +2 PM para dobrar o raio dela, até a quantidade máxima exibida na tabela.<br>
 **ÉGIDE ANTIMAGIA.** No 12º nível, enquanto estiver sobre efeito de Égide Sagrada e fizer um teste de resistência contra uma magia, você pode gastar 3 PM para rolar dois dados e ficar com o melhor resultado.<br>
 **ÉGIDE REFLETORA.** No 16º nível, se você usar Égide Antimagia e passar no teste de resistência, a magia é revertida de volta ao conjurador, que se torna o novo alvo da magia. Todas as demais características da magia, incluindo CD do teste de resistência, se mantêm.<br>
 **REDENTOR / VINGADOR SAGRADO.** No 20º nível, você pode gastar uma ação completa e 10 PM para se cobrir de energia divina, assumindo uma forma de justiça encarnada até o fim da cena. Nesta forma, você recebe deslocamento de voo 18m e redução de dano 20. Além disso, seu Golpe Divino e sua Cura pelas Mãos tem seu custo reduzido à metade e seus dados aumentam em um passo. (efeito mágico)<br>
