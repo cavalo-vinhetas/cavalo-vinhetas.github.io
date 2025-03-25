@@ -1,27 +1,27 @@
 Um intrépido não é qualquer guerreiro. É sempre um rebelde esperto, mas leal, que considera uma batalha como uma dança onde se move entre os inimigos com estilo e graça e os ataca com velocidade e elegância. Podem tanto desbravar perigos atrás de riquezas, quanto dedicar suas vidas a grandes causas.
 ### TABELA: O INTRÉPIDO
-| Nível  | Habilidades de Classe                                    |
-| ------ | -------------------------------------------------------- |
-| 1º     | Estilo de Combate, Audácia ou Duelo +2, Insolência       |
-| 2º     | Esquiva Sagaz +1, Poder de Intrépido                     |
-| 3º     | Evasão, Poder de Intrépido                               |
-| 4º     | Vestuário Pomposo, Poder de Intrépido                    |
-| 5º     | Panache, Poder de Intrépido                              |
-| 6º     | Bom Capitão +1 ou Duelo +3, Poder de Intrépido           |
-| 7º     | Esquiva sagaz +2, Poder de Intrépido                     |
-| 8º     | Desembaraçado, Poder de Intrépido                        |
-| 9º     | Esquiva Acrobática, Poder de Intrépido                   |
-| 10º    | Esquiva Resoluta, Poder de Intrépido                     |
-| 11º    | Bom Capitão +2 ou Duelo +4, Poder de Intrépido           |
-| 12º    | Esquiva sagaz +3, Poder de Intrépido                     |
-| 13º    | Evasão Aprimorada, Poder de Intrépido                    |
-| 14º    | Poder Adicional, Poder de Intrépido                      |
-| 15º    | Esquiva sagaz +4, Poder de Intrépido                     |
-| 16º    | Bom Capitão +3 ou Duelo +5, Poder de Intrépido           |
-| 17º    | Esquiva sagaz +4, Poder de Intrépido                     |
-| 18º    | Golpe Desconcertante ou Ventura, Poder de Intrépido      |
-| 19º    | Esquiva sagaz +5, Poder de Intrépido                     |
-| 20º    | Duelista Supremo ou Sorte Impossível, Poder de Intrépido |
+| Nível | Habilidades de Classe                                    |
+| ----- | -------------------------------------------------------- |
+| 1º    | Estilo de Combate, Audácia ou Duelo +2, Insolência       |
+| 2º    | Esquiva Sagaz +1, Poder de Intrépido                     |
+| 3º    | Evasão, Poder de Intrépido                               |
+| 4º    | Vestuário Pomposo, Poder de Intrépido                    |
+| 5º    | Panache, Poder de Intrépido                              |
+| 6º    | Bom Capitão +1 ou Duelo +3, Poder de Intrépido           |
+| 7º    | Esquiva sagaz +2, Poder de Intrépido                     |
+| 8º    | Desembaraçado, Poder de Intrépido                        |
+| 9º    | Esquiva Acrobática, Poder de Intrépido                   |
+| 10º   | Esquiva Resoluta, Poder de Intrépido                     |
+| 11º   | Bom Capitão +2 ou Duelo +4, Poder de Intrépido           |
+| 12º   | Esquiva sagaz +3, Poder de Intrépido                     |
+| 13º   | Evasão Aprimorada, Poder de Intrépido                    |
+| 14º   | Poder Adicional, Poder de Intrépido                      |
+| 15º   | Esquiva sagaz +4, Poder de Intrépido                     |
+| 16º   | Bom Capitão +3 ou Duelo +5, Poder de Intrépido           |
+| 17º   | Esquiva sagaz +4, Poder de Intrépido                     |
+| 18º   | Golpe Desconcertante ou Ventura, Poder de Intrépido      |
+| 19º   | Esquiva sagaz +5, Poder de Intrépido                     |
+| 20º   | Duelista Supremo ou Sorte Impossível, Poder de Intrépido |
 ### CARACTERÍSTICAS DE CLASSE
 **Pontos de Vida.** Um intrépido começa com 16 pontos de vida + Constituição e ganha 4 PV + Constituição por nível.<BR>**Pontos de Mana.** 3 PM por nível.<BR>**Perícias.** Luta (For) ou Pontaria (Des), Reflexos (Des), mais 4 a sua escolha entre Acrobacia (Des), Atletismo (For), Atuação (Car), Diplomacia (Car), Enganação (Car), Fortitude (Con), Furtividade (Des), Iniciativa (Des), Intimidação (Car), Intuição (Sab), Jogatina (Car), Luta (For), Ofício (Int), Percepção (Sab), Pilotagem (Des) e Pontaria (Des).<BR>**Proficiências.** Armas marciais e escudos.
 ### HABILIDADES DE CLASSE
@@ -58,7 +58,7 @@ Em certos níveis subsequentes, você recebe outras habilidades dependentes dess
 • *Abusar dos Fracos.* Quando ataca uma criatura sob efeito de uma condição de medo, seu dano aumenta em um passo. *Pré-requisito:* treinado em Intimidação.<BR>
 • *Ambidestria.* Se estiver empunhando duas armas (e pelo menos uma delas for leve) e fizer a ação agredir, você pode fazer dois ataques, um com cada arma. Se fizer isso, sofre –2 em todos os testes de ataque até o seu próximo turno. Se possuir Estilo de Duas Armas, em vez disso não sofre penalidade para usá-lo. *Pré-requisito:* Des 2.<BR>
 • *Amigos no Porto.* Quando chega em uma comunidade portuária, você pode fazer um teste de Carisma (CD 10). Se passar, encontra um amigo para o qual pode pedir um favor (a CD aumenta dependendo do tamanho do favor) ou que pode ajudá-lo como parceiro veterano de um tipo a sua escolha por um dia. No 14º nível, passa a ser um parceiro mestre. *Pré-requisitos:* Car 1, Bucaneiro, 6º nível de intrépido.<BR>
-• *Aparar.* Quando é atingido por um ataque, você pode gastar 1 PM e uma reação para fazer um teste de ataque com bônus igual ao seu nível (além do normal). Se o resultado do seu teste for maior que o do oponente, você evita o ataque. Esse poder custa uma quantidade de PM adicional igual à quantidade de vezes que foi usado na rodada atual. Você só pode usar este poder se estiver usando uma arma corpo a corpo leve ou ágil. *Pré-requisito*: Esgrimista.<BR>
+• *Aparar.* Quando é atingido por um ataque, você pode gastar 1 PM e uma reação para fazer um teste de ataque com bônus igual a metade do seu nível (além do normal). Se o resultado do seu teste for maior que o do oponente, você evita o ataque. Esse poder custa uma quantidade de PM adicional igual à quantidade de vezes que foi usado na rodada atual. Você só pode usar este poder se estiver usando uma arma corpo a corpo leve ou ágil. *Pré-requisito*: Esgrimista.<BR>
 • *Apostador.* Você pode gastar um dia para encontrar e participar de uma mesa de um jogo de azar qualquer. Escolha um valor e faça um teste de Jogatina contra a CD correspondente: 100 PP (CD 15), 200 PP (CD 20), 400 PP (CD 25), 800 PP (CD 30), 1.600 PP (CD 35) e assim por diante. Se passar, você ganha o valor escolhido (ou um item ou favor equivalente, a critério do mestre). Se falhar, perde esse mesmo o valor. A critério do mestre, o lugar onde você está pode limitar ou impossibilitar o uso deste poder, podendo alterar tanto o valor quanto a CD. *Pré-requisito:* treinado em Jogatina, Bucaneiro.<BR>
 • *Ardil Afiado.* Você pode usar Audácia em testes de ataque. *Pré-requisito*: Bucaneiro, 3º nível de intrépido.<BR>
 • *Armado e Preparado.* Você recebe proficiência com armas de fogo e +2 nas rolagens de dano com essas armas.<BR>
