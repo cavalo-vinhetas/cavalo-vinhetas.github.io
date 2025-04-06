@@ -58,7 +58,7 @@ O soldado é o combatente mais comum que existe. Mas isso não é uma crítica. 
 • ***Bater e Correr.*** Quando faz uma investida, você pode continuar se movendo após o ataque, até o limite de seu deslocamento. Se gastar 2 PM, pode fazer uma investida sobre terreno difícil e sem sofrer a penalidade de Defesa.<br>
 • ***Casca Grossa.*** Você soma sua Constituição na Defesa, limitado pelo seu nível e apenas se não estiver usando armadura pesada.<br>
 • ***Casca Reforçada.*** Você pode somar sua Constituição na Defesa quando usa armadura pesada. Se fizer isso, não pode somar sua Destreza, mesmo que outras habilidades ou efeitos permitam isso. *Pré-requisitos:* Casca Grossa, 8º nível de soldado.<br>
-• ***Chave.*** Se estiver agarrando uma criatura e fizer um teste de manobra contra ela para causar dano, o dano desarmado aumenta em dois passos. *Pré-requisitos:* Lutador de Chão, 4º nível de soldado.<br>
+• ***Chave.*** Se estiver agarrando uma criatura e fizer um teste de manobra contra ela para causar dano, o dano desarmado aumenta em dois passos.<br>
 • ***Confiança de Veterano.*** Quando um inimigo erra um ataque corpo a corpo contra você, você recebe 2 PM temporários (cumulativos). Você pode ganhar um máximo de PM temporários por cena igual ao seu nível. Esses pontos temporários desaparecem no final da cena. Pré-requisito: 8º nível de soldado.<br>
 • ***Convencido.*** Você recebe resistência a medo e mental +5.<br>
 • ***Corpo Fechado.*** Você pode usar Potência Vital em testes de Vontade. *Pré-requisito:* treinado em Vontade, 4º nível de soldado.<br>
@@ -96,7 +96,7 @@ Você constrói um Golpe Pessoal escolhendo efeitos da lista a seguir. Cada efei
 **Atordoante (+2 PM).** Uma criatura que sofra dano do ataque fica atordoada por uma rodada (apenas uma vez por cena; Fortitude CD a sua escolha anula).<br>
 **Brutal (+1 PM).** Fornece um dado extra de dano do mesmo tipo.<br>
 **Conjurador (Custo da Magia + 1 PM).** Escolha uma magia de 1º ou 2º círculos que tenha como alvo uma criatura ou que afete uma área. Se acertar seu golpe, você lança a magia como uma ação livre, tendo como alvo a criatura atingida ou como centro de sua área o ponto atingido pelo ataque (atributo-chave a sua escolha). Considere que a mão da arma está livre para lançar esta magia. (efeito mágico)<br>
-**Derradeiro (+4 PM)** Se acertar o ataque, causa dano máximo, sem necessidade de rolar dados. Só pode ser usado uma vez por rodada. *Pré-requisito:* 10º nível de soldado, Ataque Especial.<br>
+**Derradeiro (+4 PM)** Se acertar o ataque, causa dano máximo, sem necessidade de rolar dados. Se você acertar um ataque usando um Golpe Pessoal com este efeito, você não poderá usá-lo até seu próximo turno. *Pré-requisito:* 10º nível de soldado, Ataque Especial.<br>
 **Desconcertante (+1 PM).** Uma criatura que sofre dano do ataque fica Vulnerável por uma rodada.<br>
 **Desgastante (-1 PM).** Você fica fatigado por uma rodada após usar o golpe.<br>
 **Destruidor (+2 PM).** Aumenta o multiplicador de crítico em +1.<br>

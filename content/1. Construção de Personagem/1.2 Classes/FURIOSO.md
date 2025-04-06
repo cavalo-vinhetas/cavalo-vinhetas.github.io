@@ -14,13 +14,13 @@ Para ser considerado um furioso, a pessoa deve se entregar completamente a esse 
 | 10º   | Fúria Persistente, Poder de Furioso        |
 | 11º   | Fúria +4, Poder de Furioso                 |
 | 12º   | Pele de Ferro +2, Poder de Furioso         |
-| 13º   | Pele de Aço +3, Poder de Furioso           |
+| 13º   | Pele de Aço +4, Poder de Furioso           |
 | 14º   | Poder Adicional, Poder de Furioso          |
 | 15º   | Instinto Selvagem +3, Poder de Furioso     |
 | 16º   | Fúria +5, Poder de Furioso                 |
 | 17º   | Poder Adicional, Poder de Furioso          |
 | 18º   | Pele de Ferro +3, Poder de Furioso         |
-| 19º   | Pele de Aço +3, Poder de Furioso           |
+| 19º   | Pele de Aço +6, Poder de Furioso           |
 | 20º   | Fúria Primal, Poder de Furioso             |
 ### CARACTERÍSTICAS DE CLASSE
 **Pontos de Vida.** Um furioso começa com 24 pontos de vida + Constituição e ganha 6 PV + Constituição por nível.<BR>**Pontos de Mana.** 3 PM por nível.<BR>**Perícias.** Fortitude (Con) e Luta (For), mais 4 a sua escolha entre Adestramento (Car), Atletismo (For), Cavalgar (Des), Cura (Sab ou Int), Iniciativa (Des), Intimidação (Car), Ofício (Int), Percepção (Sab), Pontaria (Des), Sobrevivência (Sab) e Vontade (Sab).<BR>**Proficiências.** Armas marciais e escudos.<BR>
@@ -30,15 +30,15 @@ Para ser considerado um furioso, a pessoa deve se entregar completamente a esse 
 **ESTILO DE COMBATE.** Você recebe um poder de estilo de combate a sua escolha. Se já possuir um estilo de combate, pode escolher outro poder de combate.<BR>
 **PRESENÇA INTIMIDANTE.** No 2º nível, você pode usar Força como atributo-chave de Intimidação (em vez de Carisma).<br>
 **PODER DE FURIOSO.** No 2º nível, e a cada nível seguinte, você recebe um poder de furioso a sua escolha. Veja a lista a seguir.<BR>
-**INSTINTO SELVAGEM.** No 3º nível, seus instintos são tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido e recebe +1 em Iniciativa, Percepção e Reflexos. Esse bônus aumenta em +1 a cada seis níveis.<BR>
+**INSTINTO SOBRENATURAL.** No 3º nível, seus instintos são tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido e recebe +1 em Iniciativa, Percepção e Reflexos. Esse bônus aumenta em +1 a cada seis níveis.<BR>
 **PELE DE AÇO.** A partir do 5º nível, você recebe redução de dano igual a sua Constituição, limitada pelo seu nível e apenas se não estiver usando armadura pesada. Além disso, no 7º nível, e a cada seis níveis, sua RD aumenta em 2.<BR>
 **IGNORAR FERIMENTOS.** A partir do 8º nível, quando sofre dano, você pode gastar uma reação e 2 PM para fazer um teste de Fortitude e reduzir o dano sofrido em um valor igual ao resultado deste teste.<BR>
 **FÚRIA PERSISTENTE.** No 10º, sua Fúria só termina prematuramente quando você fica inconsciente.<BR>
-**PODER ADICIONAL.** No 14º nível, você recebe um poder de furioso adicional a sua escolha (como na habilidade Poder de Furioso). <BR>
+**PODER ADICIONAL.** No 14º e 17º níveis, você recebe um poder de furioso adicional a sua escolha (como na habilidade Poder de Furioso). <BR>
 **FÚRIA PRIMAL.** No 20º nível, o bônus que você recebe em Força quando entra em Fúria é dobrado. Por exemplo, se gastar 5 PM, em vez de um bônus de +5, recebe um bônus de +10. Além disso, quando entra em Fúria você pode gastar +5 PM. Se fizer isso, aumenta a duração da Fúria para 1 dia.<BR>
 ### PODERES DE FURIOSO
 • ***Alma de Bronze.*** Quando entra em Fúria, você recebe uma quantidade de pontos de vida temporários igual a seu nível + sua Força.<BR>
-• ***Alma Inabalável.*** Quando faz um teste de resistência, você pode gastar 1 PM para substituir a perícia por Intimidação. *Pré-requisitos:* Treinado em Intimidação, Alma de Bronze.<BR>
+• ***Alma Inabalável.*** Quando faz um teste de resistência, você pode gastar 3 PM para substituir a perícia por Intimidação. *Pré-requisitos:* Treinado em Intimidação, Alma de Bronze.<BR>
 • ***Aumento de Atributo.*** Você recebe +1 em um atributo. Você pode escolher este poder várias vezes, mas apenas uma vez por patamar para um mesmo atributo.<BR>
 • ***Ampliar Brado.*** O alcance de seus poderes de Brado aumenta para médio. Pré-requisito: Brado Assustador.<BR>
 • ***Brado: Assustador.*** Todos os inimigos no alcance do Brado ficam vulneráveis até o fim da cena. *Pré-requisito:* treinado em Intimidação. Medo.<BR>
@@ -77,6 +77,6 @@ Para ser considerado um furioso, a pessoa deve se entregar completamente a esse 
 • ***Superstição.*** Você odeia magia, o que faz com que seja mais resistente a ela. Você recebe resistência a magia +5.<BR>
 • ***Totem Espiritual.*** Você soma sua Sabedoria no seu total de pontos de mana. Escolha um animal espiritual (veja o quadro abaixo). Você aprende e pode lançar uma magia definida pelo animal escolhido (atributo-chave Sabedoria) e pode lançá-la mesmo em fúria. Você conjura como se fosse um druida da metade do seu nível. Além disso, no 10º e 18º níveis, você pode escolher um animal espiritual adicional. *Pré-requisitos:* Sab 1, 4º nível de furioso.<BR>
 #### Animais Espirituais 
-Animais espirituais são venerados por tribos e povos do mundo inteiro. Ao receber esse poder você se conecta com um deles, a sua escolha. Sempre que finalizar um descanso, você pode substituir o animal espiritual atual por outro da lista.<BR><br>• ****Águia.**** Sempre atentos, algo nunca passa despercebido pelos olhos de uma águia. Você recebe Alarme ou Detectar Ameaças.<br>• ****Coruja.**** A coruja representa os ideais de educação, conhecimento e sabedoria, e guia seus discípulos. Você recebe Orientação.<br>• ****Gato.**** O gato é um animal evoluído espiritualmente, por isso são capazes de enxergar além do véu. Você recebe Visão Mística.<br>• ****Lobo.**** O lobo é feroz e letal, e quando ataca, faz isso coordenado com a sua matilha. Você recebe Concentração de Combate.<br>• ****Cavalo.**** Um dos animais mais atléticos, o cavalo é um símbolo de força, liberdade e movimento. Você recebe Primor Atlético.<br>• ****Raposa**. A sagaz raposa nunca está onde se espera. Você recebe Imagem Espelhada ou uma outra magia de ilusão de 1º círculo.<br>• ****Serpente.**** A serpente pode representar tanto o seu veneno quanto a cura. Você recebe Curar Ferimentos ou Infligir Ferimentos.<br>• ****Tartaruga.**** A tartaruga é capaz de proteger tanto a si mesma como também os seus companheiros. Você recebe Escudo da Fé.<br>• ****Urso.**** O urso é conhecido pelo seu grande vigor e pela sua sobrevivência. Você recebe Proteção Divina ou Suporte Ambiental.
+Animais espirituais são venerados por tribos e povos do mundo inteiro. Ao receber esse poder você se conecta com um deles, a sua escolha. Sempre que finalizar um descanso, você pode substituir o animal espiritual atual por outro da lista.<BR><br>• ***Águia.*** Sempre atentos, algo nunca passa despercebido pelos olhos de uma águia. Você recebe Alarme ou Detectar Ameaças.<br>• ***Coruja.*** A coruja representa os ideais de educação, conhecimento e sabedoria, e guia seus discípulos. Você recebe Orientação.<br>• ***Gato.*** O gato é um animal evoluído espiritualmente, por isso são capazes de enxergar além do véu. Você recebe Visão Mística.<br>• ***Lobo.*** O lobo é feroz e letal, e quando ataca, faz isso coordenado com a sua matilha. Você recebe Concentração de Combate.<br>• ***Cavalo.*** Um dos animais mais atléticos, o cavalo é um símbolo de força, liberdade e movimento. Você recebe Primor Atlético.<br>• ***Raposa***. A sagaz raposa nunca está onde se espera. Você recebe Imagem Espelhada ou uma outra magia de ilusão de 1º círculo.<br>• ***Serpente.*** A serpente pode representar tanto o seu veneno quanto a cura. Você recebe Curar Ferimentos ou Infligir Ferimentos.<br>• ***Tartaruga.*** A tartaruga é capaz de proteger tanto a si mesma como também os seus companheiros. Você recebe Escudo da Fé.<br>• ***Urso.*** O urso é conhecido pelo seu grande vigor e pela sua sobrevivência. Você recebe Proteção Divina ou Suporte Ambiental.
 #### Brados
 Alguns poderes do bárbaro são conhecidos como brados. Esses poderes compartilham as seguintes regras.<br> • Emitir um brado gasta uma ação de movimento e 1 PM, a menos que a descrição diga o contrário.<br>• Brados afetam todos os inimigos em alcance curto.
