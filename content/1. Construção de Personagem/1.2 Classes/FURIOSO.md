@@ -18,7 +18,7 @@ Para ser considerado um furioso, a pessoa deve se entregar completamente a esse 
 | 14º   | Poder Adicional, Poder de Furioso          |
 | 15º   | Instinto Selvagem +3, Poder de Furioso     |
 | 16º   | Fúria +5, Poder de Furioso                 |
-| 17º   | Poder Adicional, Poder de Furioso          |
+| 17º   | , Poder de Furioso                         |
 | 18º   | Pele de Ferro +3, Poder de Furioso         |
 | 19º   | Pele de Aço +6, Poder de Furioso           |
 | 20º   | Fúria Primal, Poder de Furioso             |
@@ -34,7 +34,7 @@ Para ser considerado um furioso, a pessoa deve se entregar completamente a esse 
 **PELE DE AÇO.** A partir do 5º nível, você recebe redução de dano igual a sua Constituição, limitada pelo seu nível e apenas se não estiver usando armadura pesada. Além disso, no 7º nível, e a cada seis níveis, sua RD aumenta em 2.<BR>
 **IGNORAR FERIMENTOS.** A partir do 8º nível, quando sofre dano, você pode gastar uma reação e 2 PM para fazer um teste de Fortitude e reduzir o dano sofrido em um valor igual ao resultado deste teste.<BR>
 **FÚRIA PERSISTENTE.** No 10º, sua Fúria só termina prematuramente quando você fica inconsciente.<BR>
-**PODER ADICIONAL.** No 14º e 17º níveis, você recebe um poder de furioso adicional a sua escolha (como na habilidade Poder de Furioso). <BR>
+**PODER ADICIONAL.** No 14º nível, você recebe um poder de furioso adicional a sua escolha (como na habilidade Poder de Furioso). <BR>
 **FÚRIA PRIMAL.** No 20º nível, o bônus que você recebe em Força quando entra em Fúria é dobrado. Por exemplo, se gastar 5 PM, em vez de um bônus de +5, recebe um bônus de +10. Além disso, quando entra em Fúria você pode gastar +5 PM. Se fizer isso, aumenta a duração da Fúria para 1 dia.<BR>
 ### PODERES DE FURIOSO
 • ***Alma de Bronze.*** Quando entra em Fúria, você recebe uma quantidade de pontos de vida temporários igual a seu nível + sua Força.<BR>

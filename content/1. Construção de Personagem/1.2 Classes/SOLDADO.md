@@ -3,11 +3,11 @@ O soldado é o combatente mais comum que existe. Mas isso não é uma crítica. 
 | Nível | Habilidades de Classe                                             |
 | ----- | ----------------------------------------------------------------- |
 | 1º    | Caminho do Soldado (1 PM), Estilo de Combate, Foco de Treinamento |
-| 2º    | Prática Especializada, Poder de Soldado                           |
+| 2º    | Versatilidade Marcial, Poder de Soldado                           |
 | 3º    | Tática de Defesa (Def +2/RD 2), Poder de Soldado                  |
 | 4º    | Potência Vital, Poder de Soldado                                  |
 | 5º    | Caminho do Soldado (2 PM), Poder de Soldado                       |
-| 6º    | Versatilidade Marcial, Poder de Soldado                           |
+| 6º    | Flexibilidade Bélica, Poder de Soldado                            |
 | 7º    | Tática de Defesa (Def +4/RD 4), Poder de Soldado                  |
 | 8º    | Durão, Poder de Soldado                                           |
 | 9º    | Caminho do Soldado (3 PM), Poder de Soldado                       |
@@ -25,23 +25,23 @@ O soldado é o combatente mais comum que existe. Mas isso não é uma crítica. 
 ### CARACTERÍSTICAS DE CLASSE
 **Pontos de Vida.** Um soldado começa com 20 pontos de vida + Constituição e ganha 5 PV + Constituição por nível. <BR>
 **Pontos de Mana.** 3 PM por nível. <BR>
-**Perícias.** Luta (For) ou Pontaria (Des), Fortitude (Con), mais 4 a sua escolha entre Acrobacia (Des), Adestramento (Car), Atletismo (For), Cavalgar (Des), Enganação (Car), Furtividade (Des), Guerra (Int), Iniciativa (Des), Intimidação (Car), Luta (For), Ofício (Int), Percepção (Sab), Pontaria (Des) e Reflexos (Des). <BR>
+**Perícias.** Luta (For) ou Pontaria (Des), Fortitude (Con), mais 3 a sua escolha entre Acrobacia (Des), Adestramento (Car), Atletismo (For), Cavalgar (Des), Enganação (Car), Furtividade (Des), Guerra (Int), Iniciativa (Des), Intimidação (Car), Luta (For), Ofício (Int), Percepção (Sab), Pontaria (Des) e Reflexos (Des). <BR>
 **Proficiências.** Armas marciais e escudos. <BR>
 ### HABILIDADES DE CLASSE
 **CAMINHO DO SOLDADO.** Soldados se diferenciam uns dos outros pela maneira que atacam seus oponentes, da qual existem infinitas variedades. Escolha uma das opções a seguir. Uma vez feita, essa escolha não pode ser mudada. <BR>
 • *Guerreiro.* Você se foca em ataques fortes e quando você bate, você bate para valer. Você recebe a habilidade Ataque Especial. <BR>
 • *Lutador.* Você se foca em ataques rápidos e quando você começa a bater, não para mais. Você recebe a habilidade Ataque Extra. <BR>
 **ATAQUE ESPECIAL.** Quando faz um ataque, você pode gastar 1 PM para receber +4 no teste de ataque ou na rolagem de dano. A cada quatro níveis, pode gastar +1 PM para aumentar o bônus em +4. Você pode dividir os bônus igualmente. Por exemplo, no 17º nível, pode gastar 5 PM para receber +20 no ataque, +20 no dano ou +10 no ataque e +10 no dano. (Apenas Guerreiros) <BR>
-**ATAQUE EXTRA.** Quando usa a ação agredir, uma vez por rodada, você pode gastar 1 PM para realizar um ataque adicional. A cada quatro níveis, pode realizar mais um ataque adicional por rodada, pagando uma quantidade de PM adicional igual à quantidade de ataques já realizados com está habilidade no turno. Por exemplo, no 17º nível, pode realizar cinco ataques usando este poder em uma rodada, com o quinto ataque custando 6 PM no total. Essa habilidade custa +1 PM adicional para ataques feitos com armas de duas mãos e armas de fogo. (Apenas Lutadores) <BR>
+**ATAQUE EXTRA.** Quando usa a ação agredir, uma vez por rodada, você pode gastar 1 PM para realizar um ataque adicional. A cada quatro níveis, pode realizar mais um ataque adicional por rodada, pagando uma quantidade de PM adicional igual à quantidade de ataques já realizados com está habilidade no turno. Por exemplo, no 17º nível, pode realizar cinco ataques usando este poder em uma rodada, com o quinto ataque custando 6 PM no total. Essa habilidade gasta +1 PM adicional em ataques feitos com armas de duas mãos e armas de fogo. (Apenas Lutadores) <BR>
 **ESTILO DE COMBATE.** Você recebe um poder de estilo de combate a sua escolha. Se já possuir um estilo de combate, pode escolher outro poder de combate. <BR>
-**FOCO DE TREINAMENTO.** Você recebe recebe um benefício a sua escolha entre proficiência com armaduras pesadas ou o poder Brigão. <BR>
-**PRÁTICA ESPECIALIZADA.** No 2º nível, você recebe proficiência com armas de fogo, uma arma exótica ou uma perícia de classe a sua escolha. <BR>
+**FOCO DE TREINAMENTO.** Você recebe recebe um benefício a sua escolha entre proficiência com armaduras pesadas, proficiência com armas de fogo ou uma perícia de classe a sua escolha. <BR>
+**VERSATILIDADE MARCIAL.** No 2º nível, você pode gastar uma ação de movimento e 2 PM para escolher um poder de estilo de combate que você não possua. Se fizer isso, você ganha os benefícios desse poder até o fim da cena (você continua podendo se beneficiar de apenas um estilo em um determinado momento).<BR>
 **PODER DE SOLDADO.** No 2º nível, e a cada nível seguinte, você recebe um poder de soldado a sua escolha. Veja a lista a seguir. <BR>
 **TÁTICA DE DEFESA.** No 3º nível, escolha entre Defesa Ágil e Defesa Bruta. <BR>
 • *Defesa Ágil.* Quando não estiver usando armadura pesada, você recebe +2 na Defesa. Esse bônus aumenta em +2 a cada quatro níveis. <BR>
 • *Defesa Bruta.* Quando usa armadura pesada, você recebe redução de dano 2. Esta redução de dano aumenta em +2 a cada quatro níveis. <BR>
 **POTÊNCIA VITAL.** No 4º nível, quando faz um teste de atributo físico ou de um perícia baseada em um deles, você pode gastar uma quantidade de PM a sua escolha (limitada pela sua Constituição). Para cada PM que gastar, recebe +2 no teste. Você não pode usar esta habilidade em testes de ataque ou de perícias que exijam treinamento para serem usadas. <BR>
-**VERSATILIDADE MARCIAL.** No 6º nível, você recebe a habilidade do Caminho do Soldado que você não escolheu no nível 1 (se for um Guerreiro recebe Ataque Extra, se for um Lutador recebe Ataque Especial) e pode usá-la como se tivesse apenas 1 nível de soldado (você sempre conta como um soldado de 1º nível para ela e para poderes que a tenham como pré-requisito). <BR>
+**FLEXIBILIDADE BÉLICA.** No 6º nível, você recebe a habilidade do Caminho do Soldado que você não escolheu no nível 1 (se for um Guerreiro recebe Ataque Extra, se for um Lutador recebe Ataque Especial) e pode usá-la como se tivesse apenas 1 nível de soldado (você sempre conta como um soldado de 1º nível para ela e para poderes que a tenham como pré-requisito). <BR>
 **DURÃO.** A partir do 8º nível, sua rijeza muscular permite que você absorva ferimentos. Sempre que sofre dano, você pode gastar 3 PM para reduzir esse dano à metade. <BR>
 **SUPREMACIA MARCIAL**. A partir do 10º nível, sempre que você faz um ataque e reduz os pontos de vida de um inimigo a 0 ou menos, você recebe 2 pontos de mana temporários (cumulativos). Você pode ganhar um máximo de PM temporários por cena igual ao seu nível. Esses pontos temporários desaparecem no fim da cena. <BR>
 **GOLPE PESSOAL VERSÁTIL.** No 12º, você recebe o poder Golpe Pessoal e pode usar seus golpes pessoais com qualquer arma, em vez de apenas com uma arma específica. <BR>
@@ -51,7 +51,7 @@ O soldado é o combatente mais comum que existe. Mas isso não é uma crítica. 
 • ***Ambidestria.*** Se estiver empunhando duas armas (e pelo menos uma delas for leve) e fizer a ação agredir, você pode fazer dois ataques, um com cada arma. Se fizer isso, sofre –2 em todos os testes de ataque até o seu próximo turno. Se possuir Estilo de Duas Armas, em vez disso não sofre penalidade para usá-lo. *Pré-requisito:* Des 2.<br>
 • ***Alabardeiro.*** Quando ataca um inimigo com uma arma alongada, você pode gastar 1 PM para fazer um ataque adicional contra um inimigo adjacente ao alvo original, se houver. Você pode atacar este segundo inimigo mesmo que ele esteja fora de seu alcance natural, mas não se ele estiver atrás de cobertura total.<br>
 • ***Ataque Reflexo.*** Se um alvo em alcance de seus ataques corpo a corpo ficar desprevenido ou se mover voluntariamente para fora do seu alcance, você pode gastar 1 PM para fazer um ataque corpo a corpo contra esse alvo (apenas uma vez por alvo a cada rodada). *Pré-requisito:* Des 1.<br>
-• ***Aptidão para Ordens.*** Sempre que você é afetado por uma habilidade de um aliado que fornece um bônus numérico em testes de perícia, rolagens de dano ou na Defesa, para você este bônus aumenta em +1. *Pré-requisito:* treinado em Guerra.<br>
+• ***Aptidão Armada.*** Escolha Força ou Destreza. <br>*Força:* Você pode usar Força nos testes de ataque e rolagens de dano de qualquer arma marcial (se for uma arma de disparo, você só soma ela no dano se possuir Estilo de Disparo).<br>*Destreza:* Você pode usar Destreza nos testes de ataque e rolagens de dano de qualquer arma marcial de uma mão (se for uma arma de disparo, você só soma ela no dano se possuir Estilo de Disparo). <br>
 • ***Até Acertar.*** Sempre que errar um ataque contra uma criatura, você recebe um bônus cumulativo de +2 em testes de ataque e rolagens de dano contra o mesmo alvo. Os bônus terminam quando você acertar um ataque ou no fim da cena, o que acontecer primeiro.<br>
 • ***Atirador.*** Escolha um atributo mental (Inteligência, Sabedoria ou Carisma). Se estiver usando uma arma de ataque à distância, você soma esse atributo em rolagens de dano (limitado pelo seu nível e não cumulativo com o mesmo atributo). *Pré-requisito:* Int, Sab ou Car 1.<br>
 • ***Aumento de Atributo.*** Você recebe +1 em um atributo. Você pode escolher este poder várias vezes, mas apenas uma vez por patamar para um mesmo atributo.<br>
@@ -78,7 +78,7 @@ O soldado é o combatente mais comum que existe. Mas isso não é uma crítica. 
 • ***Mestre em Arma.*** Escolha uma arma. Com esta arma, seu dano aumenta em um passo e, uma vez por rodada, quando erra um ataque, você pode gastar 2 PM para rolar novamente um teste de ataque recém realizado, escolhendo o melhor entre os dois resultados. *Pré-requisitos:* Especialização em Arma com a arma escolhida, 15º nível de soldado.<br>
 • ***Mestre em Armadura.*** Escolha uma armadura. Com esta armadura, você recebe o dobro de defesa e redução de dano obtidos por Especialização em Armadura e, uma vez por rodada, quando um oponente acerta um ataque em você, você pode gastar 2 PM para fazer este oponente repetir o ataque, escolhendo o pior entre os dois resultados. *Pré-requisitos:* Especialização em Armadura com a arma escolhida, 15º nível de soldado.<br>
 • ***Perfeição da Prática.*** Você ganha um bônus em testes de ataque igual a quantidade de ataques adicionais que consegue fazer por turno com Ataque Extra. *Pré-requisito:* Ataque Extra.<br>
-• ***Planejamento Marcial.*** Uma vez por dia, você pode gastar uma hora e 3 PM para escolher um poder de soldado ou de combate cujos pré-requisitos cumpra. Você recebe os benefícios desse poder até o próximo dia. *Pré-requisitos:* treinado em Guerra, 10º nível de soldado.<br>
+• ***Planejamento Marcial.*** Uma vez por dia, você pode gastar uma ação completa e 3 PM para escolher um poder de soldado ou de combate cujos pré-requisitos cumpra. Você recebe os benefícios desse poder até o próximo dia. *Pré-requisitos:* treinado em Guerra, 5º nível de soldado.<br>
 • ***Poderio Muscular.*** Você aprende e pode lançar Primor Atlético, mas apenas em si mesmo. Esta não é uma habilidade mágica e provém de seu extenso treinamento físico. *Pré-requisito:* For 2.<br>
 • ***Rasteira.*** Quando faz um ataque contra uma criatura até uma categoria de tamanho maior que a sua, você pode gastar 2 PM. Se fizer isso e acertar o ataque, a criatura fica caída.<br>
 • ***Recuperar o Fôlego.*** Você pode gastar uma ação de movimento e uma quantidade de PM limitada por sua Constituição ou pelo seu nível (o que for maior). Para cada PM que gastar, você recupera 1d10+1 pontos de vida.<br>

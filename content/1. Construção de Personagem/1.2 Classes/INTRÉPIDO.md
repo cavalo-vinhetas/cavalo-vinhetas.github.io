@@ -5,17 +5,17 @@ Um intrépido não é qualquer guerreiro. É sempre um rebelde esperto, mas leal
 | 1º    | Estilo de Combate, Audácia ou Duelo +2, Insolência       |
 | 2º    | Esquiva Sagaz +1, Poder de Intrépido                     |
 | 3º    | Evasão, Poder de Intrépido                               |
-| 4º    | Vestuário Pomposo, Poder de Intrépido                    |
+| 4º    | Vestuário Pomposo (2 efeitos), Poder de Intrépido        |
 | 5º    | Panache, Poder de Intrépido                              |
 | 6º    | Bom Capitão +1 ou Duelo +3, Poder de Intrépido           |
 | 7º    | Esquiva sagaz +2, Poder de Intrépido                     |
 | 8º    | Desembaraçado, Poder de Intrépido                        |
-| 9º    | Esquiva Acrobática, Poder de Intrépido                   |
-| 10º   | Esquiva Resoluta, Poder de Intrépido                     |
+| 9º    | Vestuário Pomposo (4 efeitos), Poder de Intrépido        |
+| 10º   | Esquiva Acrobática, Poder de Intrépido                   |
 | 11º   | Bom Capitão +2 ou Duelo +4, Poder de Intrépido           |
 | 12º   | Esquiva sagaz +3, Poder de Intrépido                     |
 | 13º   | Evasão Aprimorada, Poder de Intrépido                    |
-| 14º   | Poder Adicional, Poder de Intrépido                      |
+| 14º   | Vestuário Pomposo (6 efeitos), Poder de Intrépido        |
 | 15º   | Esquiva sagaz +4, Poder de Intrépido                     |
 | 16º   | Bom Capitão +3 ou Duelo +5, Poder de Intrépido           |
 | 17º   | Esquiva sagaz +4, Poder de Intrépido                     |
@@ -23,7 +23,7 @@ Um intrépido não é qualquer guerreiro. É sempre um rebelde esperto, mas leal
 | 19º   | Esquiva sagaz +5, Poder de Intrépido                     |
 | 20º   | Duelista Supremo ou Sorte Impossível, Poder de Intrépido |
 ### CARACTERÍSTICAS DE CLASSE
-**Pontos de Vida.** Um intrépido começa com 16 pontos de vida + Constituição e ganha 4 PV + Constituição por nível.<BR>**Pontos de Mana.** 3 PM por nível.<BR>**Perícias.** Luta (For) ou Pontaria (Des), Reflexos (Des), mais 4 a sua escolha entre Acrobacia (Des), Atletismo (For), Atuação (Car), Diplomacia (Car), Enganação (Car), Fortitude (Con), Furtividade (Des), Iniciativa (Des), Intimidação (Car), Intuição (Sab), Jogatina (Car), Luta (For), Ofício (Int), Percepção (Sab), Pilotagem (Des) e Pontaria (Des).<BR>**Proficiências.** Armas marciais e escudos.
+**Pontos de Vida.** Um intrépido começa com 16 pontos de vida + Constituição e ganha 4 PV + Constituição por nível.<BR>**Pontos de Mana.** 3 PM por nível.<BR>**Perícias.** Luta (For) ou Pontaria (Des), Reflexos (Des), mais 4 a sua escolha entre Acrobacia (Des), Atletismo (For), Atuação (Car), Diplomacia (Car), Enganação (Car), Fortitude (Con), Furtividade (Des), Iniciativa (Des), Intimidação (Car), Intuição (Sab), Jogatina (Car), Luta (For), Ofício (Int), Percepção (Sab), Pilotagem (Des) e Pontaria (Des).<BR>**Proficiências.** Armas marciais.
 ### HABILIDADES DE CLASSE
 **ESTILO DE COMBATE.** Você recebe um poder de estilo de combate a sua escolha. Se já possuir um estilo de combate, pode escolher outro poder de combate.<br>
 **INCLINAÇÃO INTRÉPIDA.** Intrépidos possuem estilos de vida variados, podem tanto se devotar a ser o melhor espadachim de todos os tempos, como também dedicar a vida a explorar o mundo na base da lábia. Escolha uma das opções a seguir. Uma vez feita, essa escolha não pode ser mudada.<BR>
@@ -36,20 +36,18 @@ Em certos níveis subsequentes, você recebe outras habilidades dependentes dess
 **PODER DE INTRÉPIDO.** No 2º nível, e a cada nível seguinte, você recebe um poder de furioso intrépido sua escolha. Veja a lista a seguir.<BR>
 **ESQUIVA SAGAZ.** No 2º nível, você recebe +1 na Defesa e em Reflexos. Esse bônus aumenta em +1 a cada cinco níveis. Esta habilidade exige liberdade de movimentos; você não pode usá-la se estiver de armadura pesada ou na condição imóvel.<BR>
 **EVASÃO.** A partir do 3º nível, quando sofre um efeito que permite um teste de Reflexos para reduzir o dano à metade, você não sofre dano algum se passar. Você ainda sofre dano normal se falhar no teste de Reflexos. Esta habilidade exige liberdade de movimentos; você não pode usá-la se estiver de armadura pesada ou na condição imóvel.<BR>
-**VESTUÁRIO POMPOSO.** A partir do 4º nível, se estiver vestindo uma capa esvoaçante ou outro item da categoria vestuário aprovado pelo mestre, você pode gastar 3 PM e a ação indicada para gerar um dos efeitos a seguir. <BR>
+**VESTUÁRIO POMPOSO.** A partir do 4º nível, escolha dois efeitos a seguir. Sempre que estiver vestindo uma capa esvoaçante ou outro item da categoria vestuário aprovado pelo mestre, você pode gastar 3 PM e a ação indicada para gerar um dos efeitos escolhidos. No 9º e 14º níveis, você pode escolher dois efeitos adicionais.<BR>
 • *Distração Oportuna (Livre).* Até o fim do seu turno, você reduz a ação necessária para fintar em um passo.<BR>
-• *Efeito Dramático (Livre).* Em seu próximo teste de perícia baseado em Carisma, você pode rolar dois dados e ficar com o melhor resultado.<BR>
-• *Impulso Destemido (Livre).* Você recebe deslocamento +9m e +5 em Acrobacia e Atletismo por 1 rodada.<BR>
+• *Efeito Dramático (Livre).* Em seu próximo teste usando uma perícia de classe (exceto testes de ataque), você pode rolar dois dados e ficar com o melhor resultado.<BR>
+• *Impulso Destemido (Livre).* Você pode realizar uma ação de movimento adicional nessa rodada.<BR>
 • *Pegou de Raspão! (Reação).* Quando sofre dano, você pode reduzir esse dano à metade. Fazer isso destrói o item.<BR>
 • *Paraquedas (Reação).* Quando cai de qualquer altura, você não recebe dano da queda.<BR>
 • *Sorte Repentina (Reação).* Quando faz um teste de resistência, pode rolar dois dados e ficar com o melhor resultado.<BR>
 **PANACHE.** A partir do 5º nível, sempre que faz um acerto crítico em combate ou reduz um inimigo a 0 PV, você recupera 1 PM.<BR>
 **BOM CAPITÃO**. No 6 nível, você recebe +1 em testes de perícia que envolvam comandar uma tripulação ou que sejam feitos dentro de um veículo ou em alto mar. A cada cinco níveis, esse bônus aumenta em +1. (Apenas Bucaneiros)<BR>
 **DESEMBARAÇADO.** No 8º nível, você recebe a habilidade da Inclinação Intrépida que você não escolheu no nível 1 (se for um Bucaneiro recebe Duelo, se for um Mosqueteiro recebe Audácia) e pode usá-la como se tivesse apenas 1 nível de intrépido (você sempre conta como um intrépido de 1º nível para ela e para poderes que a tenham como pré-requisito).<BR>
-**ESQUIVA ACROBÁTICA.** No 9º nível, você soma o bônus de Esquiva Sagaz em Acrobacia.<BR>
-**ESQUIVA RESOLUTA.** No 10º nível, você soma o bônus de Esquiva Sagaz em Iniciativa. <BR>
+**ESQUIVA ACROBÁTICA.** No 10º nível, você soma o bônus de Esquiva Sagaz em Acrobacia. <BR>
 **EVASÃO APRIMORADA.** No 13º nível, quando sofre um efeito que permite um teste de Reflexos para reduzir o dano à metade, você não sofre dano algum se passar e sofre apenas metade do dano se falhar. Esta habilidade exige liberdade de movimentos; você não pode usá-la se estiver de armadura pesada ou na condição imóvel.<BR>
-**PODER ADICIONAL.** No 14º nível, você recebe um poder de intrépido adicional a sua escolha (como na habilidade Poder de Intrépido).<BR>
 **VENTURA.** No 18º nível, quando faz um teste de perícia, um resultado de 18 ou mais no dado sempre é um sucesso, não importando o valor a ser alcançado. <BR>
 **DUELISTA SUPREMO.** No 20º nível, o bônus que você recebe nos testes de ataque e rolagens de dano quando usa Duelo é dobrado. Por exemplo, se gastar 5 PM, em vez de um bônus de +5, recebe um bônus de +10. Além disso, pode gastar 1 PM pra rolar novamente qualquer ataque feito por você ou pelo oponente escolhido (uma vez por ataque). (Apenas Mosqueteiros)<BR>
 **SORTE IMPOSSÍVEL.** No 20º nível, você encara os piores desafios e ri na cara deles — pois sabe que tem a sorte ao seu lado. Você pode gastar 4 PM para rolar novamente qualquer teste recém realizado e ficar com o melhor resultado. Qualquer resultado 11 ou mais na melhor rolagem será considerado um 20 natural. Você pode fazer isso múltiplas vezes por teste, mas cada vez gasta +1 PM adicional. (Apenas Bucaneiros)<BR>
@@ -57,7 +55,7 @@ Em certos níveis subsequentes, você recebe outras habilidades dependentes dess
 • ***Abusar dos Fracos.*** Quando ataca uma criatura sob efeito de uma condição de medo, seu dano aumenta em um passo. *Pré-requisito:* treinado em Intimidação.<BR>
 • ***Ambidestria.*** Se estiver empunhando duas armas (e pelo menos uma delas for leve) e fizer a ação agredir, você pode fazer dois ataques, um com cada arma. Se fizer isso, sofre –2 em todos os testes de ataque até o seu próximo turno. Se possuir Estilo de Duas Armas, em vez disso não sofre penalidade para usá-lo. *Pré-requisito:* Des 2.<BR>
 • ***Amigos do Peito.*** Quando chega em uma comunidade, você pode fazer um teste de Carisma (CD 10). Se passar, encontra um amigo para o qual pode pedir um favor (a CD aumenta dependendo do tamanho do favor) ou que pode ajudá-lo como parceiro veterano de um tipo a sua escolha por um dia. No 14º nível, passa a ser um parceiro mestre. *Pré-requisitos:* Car 3, Bucaneiro, 6º nível de intrépido.<BR>
-• ***Aparar.*** Quando é atingido por um ataque, você pode gastar 1 PM e uma reação para fazer um teste de ataque com bônus igual a metade do seu nível (além do normal). Se o resultado do seu teste for maior que o do oponente, você evita o ataque. Esse poder custa uma quantidade de PM adicional igual à quantidade de vezes que foi usado na rodada atual. Você só pode usar este poder se estiver usando uma arma corpo a corpo leve ou ágil. *Pré-requisito*: Esgrimista.<BR>
+• ***Aparar.*** Quando é atingido por um ataque, você pode gastar 2 PM e uma reação para fazer um teste de ataque com bônus igual a metade do seu nível (além do normal). Se o resultado do seu teste for maior que o do oponente, você evita o ataque. Esse poder custa uma quantidade de PM adicional igual à quantidade de vezes que foi usado na rodada atual. Você só pode usar este poder se estiver usando uma arma corpo a corpo leve ou ágil. *Pré-requisito*: Esgrimista.<BR>
 • ***Apostador.*** Você pode gastar um dia para encontrar e participar de uma mesa de um jogo de azar qualquer. Escolha um valor e faça um teste de Jogatina contra a CD correspondente: 100 PP (CD 15), 200 PP (CD 20), 400 PP (CD 25), 800 PP (CD 30), 1.600 PP (CD 35) e assim por diante. Se passar, você ganha o valor escolhido (ou um item ou favor equivalente, a critério do mestre). Se falhar, perde esse mesmo o valor. A critério do mestre, o lugar onde você está pode limitar ou impossibilitar o uso deste poder, podendo alterar tanto o valor quanto a CD. *Pré-requisito:* treinado em Jogatina, Bucaneiro.<BR>
 • ***Ardil Afiado.*** Você pode usar Audácia em testes de ataque. *Pré-requisito*: Bucaneiro, 3º nível de intrépido.<BR>
 • ***Armado e Preparado.*** Você recebe proficiência com armas de fogo e +2 nas rolagens de dano com essas armas.<BR>
@@ -76,7 +74,8 @@ Em certos níveis subsequentes, você recebe outras habilidades dependentes dess
 • ***Duelista Defensivo.*** Quando usa Duelo, pode gastar o dobro do PM. Se fizer isso, o oponente escolhido recebe uma penalidade em seus testes de ataque e rolagens de dano igual ao bônus recebido pela habilidade até o fim da cena. *Pré-requisito*: Duelo.<BR>
 • ***En Garde.*** Você pode gastar uma ação de movimento e 1 PM para assumir uma postura de luta. Até o fim da cena, se estiver usando uma arma corpo a corpo leve ou ágil, você recebe +2 na margem de ameaça com essas armas e +2 na Defesa. *Pré-requisito:* Esgrimista.<BR>
 • ***Entrada Triunfal.*** Se for o primeiro na iniciativa, na primeira rodada de combate você recebe uma quantidade de pontos de vida temporários igual a seu nível + seu Carisma. *Pré-requisito:* Treinado em Iniciativa<BR>
-• ***Esgrimista.*** Escolha um atributo mental (Inteligência, Sabedoria ou Carisma). Se estiver usando uma arma corpo a corpo leve ou ágil, você soma esse atributo em rolagens de dano (limitado pelo seu nível e não cumulativo com o mesmo atributo). *Pré-requisito:* Int, Sab ou Car 1.<BR>
+• ***Esgrimista.*** Escolha um atributo mental (Inteligência, Sabedoria ou Carisma). Se estiver usando uma arma corpo a corpo leve ou ágil, você soma esse atributo em rolagens de dano (limitado pelo seu nível e não cumulativo com o mesmo atributo). *Pré-requisito:* Int, Sab ou Car 1.<br>
+• ***Finta Acrobática.*** Você soma sua Destreza nos seus testes de Enganação para fintar em combate. Pré-requisito: treinado em Acrobacia e Enganação.<BR>
 • ***Finta Desconcertante.*** Quando finta uma criatura, ela também faz um teste de Vontade. Se o resultado do seu teste de Enganação for maior que o dos dois testes da criatura, além de desprevenida, ela também fica abalada por uma rodada. *Pré-requisitos:* treinado em Enganação.<br>
 • ***Flagelo dos Mares.*** Você pode lançar Amedrontar (atributo-chave Carisma). Esta não é uma habilidade mágica e provém de sua capacidade de incutir medo em seus inimigos. *Pré-requisito:* treinado em Intimidação.<BR>
 • ***Folião.*** Você sabe fazer amizades durante festas, de noitadas em tavernas a bailes na corte. Nesses locais, você recebe +2 em testes de perícias de Carisma e a atitude de todas as pessoas em relação a você melhora em uma categoria. *Pré-requisito:* Car 1.<BR>
