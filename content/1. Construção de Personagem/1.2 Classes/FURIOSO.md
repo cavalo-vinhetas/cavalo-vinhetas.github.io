@@ -1,34 +1,34 @@
 Para ser considerado um furioso, a pessoa deve se entregar completamente a esse sentimento primordial conhecido como Fúria, que toma conta completamente do seu corpo e o permite fazer feitos que podem ser considerados inexplicáveis ou até mesmo impossíveis. A única certeza sobre um furioso é que ele é tão forte quanto a raiva que ele sente.
 ### TABELA: O FURIOSO
-| Nível | Habilidades de Classe                      |
-| ----- | ------------------------------------------ |
-| 1º    | Estilo de Combate, Fúria +2, Pele de Ferro |
-| 2º    | Presença Intimidante, Poder de Furioso     |
-| 3º    | Instinto Selvagem +1, Poder de Furioso     |
-| 4º    | Pele de Aço, Poder de Furioso              |
-| 5º    | Pele de Ferro +1, Poder de Furioso         |
-| 6º    | Fúria +3, Poder de Furioso                 |
-| 7º    | Pele de Aço +2, Poder de Furioso           |
-| 8º    | Ignorar Ferimentos, Poder de Furioso       |
-| 9º    | Instinto Selvagem +2, Poder de Furioso     |
-| 10º   | Fúria Persistente, Poder de Furioso        |
-| 11º   | Fúria +4, Poder de Furioso                 |
-| 12º   | Pele de Ferro +2, Poder de Furioso         |
-| 13º   | Pele de Aço +4, Poder de Furioso           |
-| 14º   | Poder Adicional, Poder de Furioso          |
-| 15º   | Instinto Selvagem +3, Poder de Furioso     |
-| 16º   | Fúria +5, Poder de Furioso                 |
-| 17º   | , Poder de Furioso                         |
-| 18º   | Pele de Ferro +3, Poder de Furioso         |
-| 19º   | Pele de Aço +6, Poder de Furioso           |
-| 20º   | Fúria Primal, Poder de Furioso             |
+| Nível | Habilidades de Classe                         |
+| ----- | --------------------------------------------- |
+| 1º    | Fúria +2, Pele de Ferro, Presença Intimidante |
+| 2º    | Estilo de Combate, Poder de Furioso           |
+| 3º    | Instinto Selvagem +1, Poder de Furioso        |
+| 4º    | Pele de Aço, Poder de Furioso                 |
+| 5º    | Pele de Ferro +1, Poder de Furioso            |
+| 6º    | Fúria +3, Poder de Furioso                    |
+| 7º    | Pele de Aço +2, Poder de Furioso              |
+| 8º    | Ignorar Ferimentos, Poder de Furioso          |
+| 9º    | Instinto Selvagem +2, Poder de Furioso        |
+| 10º   | Fúria Persistente, Poder de Furioso           |
+| 11º   | Fúria +4, Poder de Furioso                    |
+| 12º   | Pele de Ferro +2, Poder de Furioso            |
+| 13º   | Pele de Aço +4, Poder de Furioso              |
+| 14º   | Poder Adicional, Poder de Furioso             |
+| 15º   | Instinto Selvagem +3, Poder de Furioso        |
+| 16º   | Fúria +5, Poder de Furioso                    |
+| 17º   | , Poder de Furioso                            |
+| 18º   | Pele de Ferro +3, Poder de Furioso            |
+| 19º   | Pele de Aço +6, Poder de Furioso              |
+| 20º   | Fúria Primal, Poder de Furioso                |
 ### CARACTERÍSTICAS DE CLASSE
 **Pontos de Vida.** Um furioso começa com 24 pontos de vida + Constituição e ganha 6 PV + Constituição por nível.<BR>**Pontos de Mana.** 3 PM por nível.<BR>**Perícias.** Fortitude (Con) e Luta (For), mais 4 a sua escolha entre Adestramento (Car), Atletismo (For), Cavalgar (Des), Cura (Sab ou Int), Iniciativa (Des), Intimidação (Car), Ofício (Int), Percepção (Sab), Pontaria (Des), Sobrevivência (Sab) e Vontade (Sab).<BR>**Proficiências.** Armas marciais e escudos.<BR>
 ### HABILIDADES DE CLASSE
 **FÚRIA.** Você pode gastar 2 PM para invocar uma fúria selvagem. Você recebe +2 em Força, mas não pode fazer nenhuma ação que exija calma e concentração (como usar a perícia Furtividade ou lançar magias). A cada cinco níveis, pode gastar +1 PM para aumentar o bônus em +1. Sua Fúria termina prematuramente se você ficar inconsciente ou, até o fim da rodada, não provocar ou ser alvo de um efeito (ataque, habilidade, etc...) hostil.<BR>
 **PELE DE FERRO.** Você soma sua Constituição na Defesa, limitado pelo seu nível e apenas se não estiver usando armadura pesada. Além disso, no 4º nível, e a cada oito níveis, você recebe +1 na Defesa.<BR>
-**ESTILO DE COMBATE.** Você recebe um poder de estilo de combate a sua escolha. Se já possuir um estilo de combate, pode escolher outro poder de combate.<BR>
-**PRESENÇA INTIMIDANTE.** No 2º nível, você pode usar Força como atributo-chave de Intimidação (em vez de Carisma).<br>
+**PRESENÇA INTIMIDANTE.** Você pode usar Força como atributo-chave de Intimidação (em vez de Carisma).
+<br>**ESTILO DE COMBATE.** No 2º nível, você recebe um poder de estilo de combate a sua escolha. Se já possuir um estilo de combate, pode escolher outro poder de combate.<BR>
 **PODER DE FURIOSO.** No 2º nível, e a cada nível seguinte, você recebe um poder de furioso a sua escolha. Veja a lista a seguir.<BR>
 **INSTINTO SOBRENATURAL.** No 3º nível, seus instintos são tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido e recebe +1 em Iniciativa, Percepção e Reflexos. Esse bônus aumenta em +1 a cada seis níveis.<BR>
 **PELE DE AÇO.** A partir do 5º nível, você recebe redução de dano igual a sua Constituição, limitada pelo seu nível e apenas se não estiver usando armadura pesada. Além disso, no 7º nível, e a cada seis níveis, sua RD aumenta em 2.<BR>
@@ -54,14 +54,14 @@ Para ser considerado um furioso, a pessoa deve se entregar completamente a esse 
 • ***Frenesi.*** Uma vez por rodada, se estiver em Fúria e usar a ação agredir para fazer um ataque corpo a corpo ou com uma arma de arremesso, você pode gastar 2 PM para fazer um ataque adicional. <BR>
 • ***Fúria Assassina.*** Enquanto está em Fúria, você recebe +1 na margem de ameaça de seus ataques.<BR>
 • ***Fúria Bestial.*** O sangue de feras corre em suas veias. Quando entra em fúria, você recebe uma arma natural que causa dano 1d8 pontos de dano. Uma vez por rodada, quando usa a ação agredir para atacar com outra arma, pode gastar 1 PM para fazer um ataque corpo a corpo extra com ela. Se você já possuir alguma outra arma natural, o dano de todas as suas outras armas naturais aumenta em um passo.<BR>
-• ***Fúria Célere.*** Seu deslocamento aumenta em +3m. Além disso, quando entra em Fúria, se não estiver usando armadura pesada, pode gastar +1 PM para receber um bônus de +2 em Destreza. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus em 1. O bônus dessa habilidade não é dobrado com Fúria Primal.<br>
+• ***Fúria Célere.*** Seu deslocamento aumenta em +3m. Além disso, quando entra em Fúria, se não estiver usando armadura pesada, pode gastar +1 PM para receber um bônus de +2 em Destreza até o fim da Fúria. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus em 1.<br>
 • ***Fúria Controlada.*** Você consegue manter a compostura mesmo quando entra em Fúria. Você pode fazer ações que exijam calma e concentração (como usar a perícia Furtividade ou lançar magias) mesmo em Fúria. *Pré-requisitos:* 10º nível de furioso.<br>
-• ***Fúria Enjaulada.*** Quando entra em Fúria, você pode se beneficiar de suas habilidades e poderes de furioso que proíbem o uso de armadura pesada (como Pele de Ferro e Pele de Aço) mesmo se estiver usando armadura pesada. *Pré-requisitos:* 8º nível de furioso, proficiência com armaduras pesadas.<br>
-• ***Fúria Explosiva.*** Quando entra em Fúria, ou com uma ação padrão se estiver em Fúria, você pode gastar 2 PM para golpear os inimigos ao seu redor. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo em seu alcance natural. Então faça uma rolagem de dano e aplique-a em cada inimigo atingido. Seu bônus em ataque e dano concedido por sua fúria é dobrado para este ataque e para a rolagem de dano. Pré-requisito: 8º nível de bárbaro.<BR>
-• ***Fúria Inabalável.*** Quando entra em Fúria, você se torna imune a efeitos de medo, mágicos ou não. *Pré-requisito:* treinado em Vontade.<BR>
+• ***Fúria Enjaulada.*** Enquanto estiver em Fúria, você pode se beneficiar de suas habilidades e poderes de furioso que proíbem o uso de armadura pesada (como Pele de Ferro e Pele de Aço) mesmo se estiver usando armadura pesada. *Pré-requisitos:* 8º nível de furioso, proficiência com armaduras pesadas.<br>
+• ***Fúria Explosiva.*** Quando entra em Fúria, ou com uma ação padrão enquanto estiver em Fúria, você pode gastar 2 PM para golpear os inimigos ao seu redor. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo em seu alcance natural. Então faça uma rolagem de dano e aplique-a em cada inimigo atingido. Seu bônus em ataque e dano concedido por sua fúria é dobrado para este ataque e para a rolagem de dano. Pré-requisito: 8º nível de bárbaro.<BR>
+• ***Fúria Inabalável.*** Enquanto estiver em Fúria, você é imune a efeitos de medo, mágicos ou não. *Pré-requisito:* treinado em Vontade.<BR>
 • ***Fúria Inconsciente.*** Sempre que sua Fúria for terminar prematuramente, você pode pagar 1 PM para continuar em fúria mesmo assim.<BR>
-• ***Fúria Titânica.*** Quando entra em Fúria, você pode gastar 2 PM para aumentar seu tamanho em uma categoria; isso aumenta sua Força em +2 e faz com que seu equipamento aumente para o tamanho adequado. O aumento de tamanho dura até sua fúria terminar. *Pré-requisito:* 12º nível de furioso.<BR>
-• ***Fúria Vigorosa.*** Quando entra em Fúria, se não estiver usando armadura pesada, pode gastar o dobro dos PM. Se fizer isso, você recebe o bônus de Fúria em Força e Constituição (em vez de apenas em Força). *Pré-requisitos:* 8º nível de furioso.<BR>
+• ***Fúria Titânica.*** Quando entra em Fúria, você pode gastar 2 PM para aumentar seu tamanho em uma categoria até o fim da Fúria; isso aumenta sua Força em +2 e faz com que seu equipamento aumente para o tamanho adequado. *Pré-requisito:* 12º nível de furioso.<BR>
+• ***Fúria Vigorosa.*** Quando entra em Fúria, se não estiver usando armadura pesada, pode gastar +1 PM para receber um bônus de +2 em Constituição até o fim da Fúria. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus em 1.<BR>
 • ***Golpe Imprudente.*** Quando usa a usa a ação agredir, você pode atacar de forma impulsiva. Se fizer isso, você recebe +2 nos testes de ataque e nas rolagens de dano e sofre –5 na Defesa até o início de seu próximo turno.<BR>
 • ***Golpe Poderoso.*** Ao acertar um ataque corpo a corpo ou com uma arma de arremesso, você pode gastar 1 PM para causar um dado extra de dano do mesmo tipo (por exemplo, com um montante, causa +1d6, para um dano total de 3d6; com um machado de guerra, causa +1d12, para um dano total de 2d12).<BR>
 • ***Golpe Pesado.*** Quando usa Ataque Pesado para empurrar, você pode escolher não se deslocar durante a manobra. Se fizer isso e existir uma parede, criatura ou outro objeto sólido no caminho do alvo, ele sofre 1d6 pontos de dano de impacto para cada 3m que for empurrado (se for uma criatura ela também recebe o dano). Se possuir Empurrar Aprimorado, você recebe +2 no teste para empurrar e pode avançar junto com o alvo, como se estivesse arrastando ele no processo. *Pré-requisito:* Ataque Pesado.<BR>
