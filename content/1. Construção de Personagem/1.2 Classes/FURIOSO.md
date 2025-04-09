@@ -18,7 +18,7 @@ Para ser considerado um furioso, a pessoa deve se entregar completamente a esse 
 | 14º   | Poder Adicional, Poder de Furioso             |
 | 15º   | Instinto Selvagem +3, Poder de Furioso        |
 | 16º   | Fúria +5, Poder de Furioso                    |
-| 17º   | , Poder de Furioso                            |
+| 17º   | Fúria Indomável, Poder de Furioso             |
 | 18º   | Pele de Ferro +3, Poder de Furioso            |
 | 19º   | Pele de Aço +6, Poder de Furioso              |
 | 20º   | Fúria Primal, Poder de Furioso                |
@@ -35,16 +35,17 @@ Para ser considerado um furioso, a pessoa deve se entregar completamente a esse 
 **IGNORAR FERIMENTOS.** A partir do 8º nível, quando sofre dano, você pode gastar uma reação e 2 PM para fazer um teste de Fortitude e reduzir o dano sofrido em um valor igual ao resultado deste teste.<BR>
 **FÚRIA PERSISTENTE.** No 10º, sua Fúria só termina prematuramente quando você fica inconsciente.<BR>
 **PODER ADICIONAL.** No 14º nível, você recebe um poder de furioso adicional a sua escolha (como na habilidade Poder de Furioso). <BR>
+**FÚRIA INDOMÁVEL.** No 17º nível, enquanto estiver em Fúria, seu dano corpo a corpo e com armas de arremesso aumenta em um passo. <BR>
 **FÚRIA PRIMAL.** No 20º nível, o bônus que você recebe em Força quando entra em Fúria é dobrado. Por exemplo, se gastar 5 PM, em vez de um bônus de +5, recebe um bônus de +10. Além disso, quando entra em Fúria você pode gastar +5 PM. Se fizer isso, aumenta a duração da Fúria para 1 dia.<BR>
 ### PODERES DE FURIOSO
-• ***Alma de Bronze.*** Quando entra em Fúria, você recebe uma quantidade de pontos de vida temporários igual a seu nível + sua Força.<BR>
+• ***Alma de Bronze.*** Quando entra em Fúria, você recebe uma quantidade de pontos de vida temporários igual a seu nível + sua Força. *Pré-requisitos:* treinado em Vontade.<BR>
 • ***Alma Inabalável.*** Quando faz um teste de resistência, você pode gastar 3 PM para substituir a perícia por Intimidação. *Pré-requisitos:* Treinado em Intimidação, Alma de Bronze.<BR>
 • ***Aumento de Atributo.*** Você recebe +1 em um atributo. Você pode escolher este poder várias vezes, mas apenas uma vez por patamar para um mesmo atributo.<BR>
 • ***Ampliar Brado.*** O alcance de seus poderes de Brado aumenta para médio. Pré-requisito: Brado Assustador.<BR>
 • ***Brado: Assustador.*** Inimigos no alcance do Brado ficam vulneráveis até o fim da cena. *Pré-requisito:* treinado em Intimidação. Medo.<BR>
 • ***Brado: Assombroso.*** Você pode gastar uma quantidade de PM limitada pela sua Constituição. Para cada PM que gastar, você causa 1d6 pontos de dano psíquico contra inimigos no alcance do Brado (Vontade CD For reduz à metade). *Pré-requisito:* Brado Assustador. Medo.<BR>
 • ***Brado: Retardante.*** Inimigos no alcance do brado ficam lentos por 1 rodada. Medo.<br>
-• ***Brado: Revigorante.*** Quando usa um poder de Brado enquanto estiver em Fúria, você recebe uma quantidade de PV temporários igual à metade de seu nível + sua Força. *Pré-requisitos:* Alma de Bronze, um poder de Brado.<BR>
+• ***Brado: Revigorante.*** Quando usa um poder de Brado enquanto estiver em Fúria, você recebe uma quantidade de PV temporários cumulativos igual à metade de seu nível + sua Força. *Pré-requisitos:* Alma de Bronze, um poder de Brado.<BR>
 • ***Brado: Sísmico.*** Inimigos no alcance do Brado ficam vulneráveis por 1d4 rodadas e caídos (Fort CD For reduz para vulnerável por 1 rodada). Criaturas que já estavam vulneráveis ficam desprevenidas pelo mesmo tempo. *Pré-requisito:* outro poder de brado.<br>
 • ***Brado da Vitória.*** Quando faz um acerto crítico ou reduz um inimigo a 0 PV enquanto estiver em Fúria, você pode usar um poder de Brado como ação livre. *Pré-requisitos:* Sangue dos Inimigos, um poder de Brado.<BR>
 • ***Crítico Brutal.*** Seu multiplicador de crítico com armas corpo a corpo e de arremesso aumenta em +1. *Pré-requisito:* 6º nível de furioso.<BR>
@@ -53,11 +54,11 @@ Para ser considerado um furioso, a pessoa deve se entregar completamente a esse 
 • ***Força Indomável.*** Você pode gastar 1 PM para somar seu bônus de Fúria em um teste de Força ou Atletismo. Você pode usar esta habilidade depois de rolar o dado, mas deve usá-la antes de o mestre dizer se você passou ou não.<BR>
 • ***Frenesi.*** Uma vez por rodada, se estiver em Fúria e usar a ação agredir para fazer um ataque corpo a corpo ou com uma arma de arremesso, você pode gastar 2 PM para fazer um ataque adicional. <BR>
 • ***Fúria Assassina.*** Enquanto está em Fúria, você recebe +1 na margem de ameaça de seus ataques.<BR>
-• ***Fúria Bestial.*** O sangue de feras corre em suas veias. Quando entra em fúria, você recebe uma arma natural que causa dano 1d8 pontos de dano. Uma vez por rodada, quando usa a ação agredir para atacar com outra arma, pode gastar 1 PM para fazer um ataque corpo a corpo extra com ela. Se você já possuir alguma outra arma natural, o dano de todas as suas outras armas naturais aumenta em um passo.<BR>
+• ***Fúria Bestial.*** O sangue de feras corre em suas veias. Quando entra em fúria, você recebe uma arma natural que causa dano 1d6 pontos de dano. Uma vez por rodada, quando usa a ação agredir para atacar com outra arma, pode gastar 1 PM para fazer um ataque corpo a corpo extra com ela. Se você já possuir alguma outra arma natural, o dano de todas as suas outras armas naturais aumenta em um passo.<BR>
 • ***Fúria Célere.*** Seu deslocamento aumenta em +3m. Além disso, quando entra em Fúria, se não estiver usando armadura pesada, pode gastar +1 PM para receber um bônus de +2 em Destreza até o fim da Fúria. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus em 1.<br>
 • ***Fúria Controlada.*** Você consegue manter a compostura mesmo quando entra em Fúria. Você pode fazer ações que exijam calma e concentração (como usar a perícia Furtividade ou lançar magias) mesmo em Fúria. *Pré-requisitos:* 10º nível de furioso.<br>
 • ***Fúria Enjaulada.*** Enquanto estiver em Fúria, você pode se beneficiar de suas habilidades e poderes de furioso que proíbem o uso de armadura pesada (como Pele de Ferro e Pele de Aço) mesmo se estiver usando armadura pesada. *Pré-requisitos:* 8º nível de furioso, proficiência com armaduras pesadas.<br>
-• ***Fúria Explosiva.*** Quando entra em Fúria, ou com uma ação padrão enquanto estiver em Fúria, você pode gastar 2 PM para golpear os inimigos ao seu redor. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo em seu alcance natural. Então faça uma rolagem de dano e aplique-a em cada inimigo atingido. Seu bônus em ataque e dano concedido por sua fúria é dobrado para este ataque e para a rolagem de dano. Pré-requisito: 8º nível de bárbaro.<BR>
+• ***Fúria Explosiva.*** Quando entra em Fúria, ou com uma ação padrão em turnos subsequentes, você pode gastar 2 PM para golpear os inimigos ao seu redor. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo em seu alcance natural. Então faça uma rolagem de dano e aplique-a em cada inimigo atingido. Seu bônus de Força concedido por Fúria é dobrado para este ataque e para a rolagem de dano. Pré-requisito: 8º nível de bárbaro.<BR>
 • ***Fúria Inabalável.*** Enquanto estiver em Fúria, você é imune a efeitos de medo, mágicos ou não. *Pré-requisito:* treinado em Vontade.<BR>
 • ***Fúria Inconsciente.*** Sempre que sua Fúria for terminar prematuramente, você pode pagar 1 PM para continuar em fúria mesmo assim.<BR>
 • ***Fúria Titânica.*** Quando entra em Fúria, você pode gastar 2 PM para aumentar seu tamanho em uma categoria até o fim da Fúria; isso aumenta sua Força em +2 e faz com que seu equipamento aumente para o tamanho adequado. *Pré-requisito:* 12º nível de furioso.<BR>
@@ -68,11 +69,11 @@ Para ser considerado um furioso, a pessoa deve se entregar completamente a esse 
 • ***Ímpeto.*** Uma vez por rodada, você pode gastar 2 PM para realizar uma ação de movimento adicional apenas para se deslocar. *Pré-requisito:* treinado em Iniciativa.<BR>
 • ***Investida Imprudente.*** Quando faz uma investida, você pode aumentar sua penalidade na Defesa pela investida para –5 para receber um bônus de +1d12 na rolagem de dano deste ataque.<BR>
 • ***Instinto Brutal.*** Você aplica o bônus de Instinto Selvagem em Atletismo e Intimidação. *Pré-requisito:* Instinto Selvagem.<BR>
-• ***Instinto Feral.*** Você aplica o bônus de Instinto Selvagem em Adestramento e Cavalgar. *Pré-requisito:* Instinto Selvagem.<BR>
+• ***Instinto Feral.*** Você aplica o bônus de Instinto Selvagem em Adestramento e Cavalgar. Se possuir Fúria Bestial, o dano de suas armas naturais aumenta em um passo. *Pré-requisito:* Instinto Selvagem.<BR>
 • ***Instinto Indomável.*** Pode usar Força Indomável com qualquer perícia contemplada por Instinto Selvagem. *Pré-requisitos:* Força Indomável, 10º nível de furioso.<BR>
 • ***Manifestar Totem.*** Escolha um tipo de parceiro entre fortão, guardião, perseguidor ou montaria. Uma vez feita, essa escolha não pode ser mudada. Você pode gastar 3 PM e uma ação de movimento para invocar uma manifestação espiritual de seu animal totêmico até o fim da cena. Ele é um parceiro veterano do tipo escolhido. Pré-requisitos: Totem Espiritual, 7º nível de bárbaro<BR>
 • ***Recuperar o Fôlego.*** Você pode gastar uma ação de movimento e uma quantidade de PM limitada por sua Constituição ou pelo seu nível (o que for maior). Para cada PM que gastar, você recupera 1d10+1 pontos de vida.<BR>
-• ***Revidar.*** Uma vez por rodada, quando sofre dano de um ataque corpo a corpo enquanto está em Fúria, você pode gastar uma reação e 2 PM para fazer um ataque corpo a corpo contra a criatura que o atacou.<BR>
+• ***Revidar.*** Uma vez por rodada, quando sofre dano de um ataque corpo a corpo enquanto está em Fúria, você pode gastar uma reação e 2 PM para fazer um ataque corpo a corpo contra a criatura que o atacou. *Pré-requisitos:* Frenesi, 11º nível de bárbaro.<BR>
 • ***Sangue dos Inimigos.*** Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.<BR>
 • ***Superstição.*** Você odeia magia, o que faz com que seja mais resistente a ela. Você recebe resistência a magia +5.<BR>
 • ***Totem Espiritual.*** Você soma sua Sabedoria no seu total de pontos de mana. Escolha um animal espiritual (veja o quadro abaixo). Você aprende e pode lançar uma magia definida pelo animal escolhido (atributo-chave Sabedoria) e pode lançá-la mesmo em fúria. Você conjura como se fosse um druida da metade do seu nível. Além disso, no 10º e 18º níveis, você pode escolher um animal espiritual adicional. *Pré-requisitos:* Sab 1, 4º nível de furioso.<BR>
